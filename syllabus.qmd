@@ -1,0 +1,99 @@
+---
+title: "Syllabus"
+---
+
+
+## Veranstaltung
+
+|           | Tag       | Uhrzeit              | Ort |
+|-----------|-----------|-------------------|----------|
+| Vorlesung   | Mittwoch    | 10:00  - 11:30  |  S103  |
+
+
+## Lernziele
+
+
+1. **Marktforschung und Ideenfindung**: 
+   - Erkennen von Marktbedingungen und Identifizierung von Marktlücken.
+   - Generierung und Bewertung von Ideen für digitale und physische Produkte.
+
+2. **Anwendung von Entrepreneurship-Frameworks**:
+   - Einführung und Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
+   - Nutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.
+
+3. **Produktentwicklung und Design**:
+   - Gestaltung von digitalen und physischen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
+   - Erstellung von Mock-Ups und Prototypen für das digitale Produkt.
+
+4. **Dokumentation und Präsentation**:
+   - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
+   - Entwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen.
+
+
+## Literaturhinweise
+
+
+
+## Prüfungsleistung
+
+Die Studierenden sollen in Vierer-Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
+
+Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
+
+1. **Recherche und Ideenfindung**:
+   - Recherche zu aktuellen Marktbedingungen und Identifizierung einer Marktlücke.
+   - Entwicklung einer Geschäfts-Idee für ein kombiniertes digitales und physisches Produkt.
+
+2. **Erstellung des Geschäftsmodells**:
+   - Anwendung der Blue Ocean Strategy zur Identifizierung von Alleinstellungsmerkmalen und Differenzierung im Markt.
+   - Ausfüllen des Business Model Canvas und des Value Proposition Canvas, um das Geschäftsmodell und den Wertvorschlag klar zu artikulieren.
+
+3. **Produktdesign und Mock-Up-Erstellung**:
+   - Design des physischen Produkts und Erstellung eines Mock-Ups für das digitale Produkt.
+
+4. **Dokumentation**:
+   - Verfassen eines Berichts, der die Recherche, die entwickelten Ideen, das Geschäftsmodell und die Produktentwürfe umfasst.
+
+5. **Präsentation**:
+   - Vorbereitung und Durchführung eines 5-minütigen Elevator Pitches, um das Geschäftsmodell und die Produktidee vorzustellen.
+   
+
+
+- Die Dokumentation sollte nicht länger als 12 Seiten sein.
+- Der Elevator Pitch sollte klar und prägnant sein, und das Interesse des Publikums wecken.
+
+
+
+## Bewertungsraster
+
+| Kriterium                         | Punkte | Bewertung                          |
+|-----------------------------------|--------|------------------------------------|
+| **Recherche und Ideenfindung**    | 20     | Tiefe der Recherche, Originalität der Idee |
+| **Anwendung der Frameworks**      | 20     | Verständlichkeit, Vollständigkeit, Anwendung der Tools |
+| **Produktdesign und Mock-Up**     | 20     | Kreativität, technische Umsetzbarkeit |
+| **Dokumentation**                 | 20     | Struktur, Inhalt, Klarheit, Relevanz |
+| **Präsentation**                  | 20     | Klarheit, Überzeugungskraft, Zeitmanagement |
+
+
+
+## Notenschlüssel
+
+Die Note für die erzielten Punkte wird auf der Grundlage der folgenden Schwellenwerte ermittelt:
+
+
+|  Note       | Erreichte Punkte |
+|--------------|--------------------|
+| 1.0           | 96 - 100          |
+| 1.3           | 91 - 95           |
+| 1.7           | 85 - 90           |
+| 2.0           | 80 - 84           |
+| 2.3           | 75 - 79           |
+| 2.7           | 70 - 74           |
+| 3.0           | 65 - 69           |
+| 3.3           | 60 - 64           |
+| 3.7           | 55 - 59           |
+| 4.0            | 50 - 54          |
+| 4.7           | 15 - 49           |
+| 5.0            | 0 - 14           |
+
+
