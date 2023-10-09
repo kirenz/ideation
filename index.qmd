@@ -3,11 +3,10 @@ title: "Ideation und Entrepreneurship"
 subtitle: "Kursinhalte"
 ---
 
-Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle. 
-
-![](/images/logo.png){width="40%"}
-
 Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.
+
+![](/images/logo.png){width="20%"}
+
 
 :::{.callout-note}
 Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird und dass der Zeitplan der Themen und Aufgaben im Laufe des Semesters aktualisiert werden kann.
