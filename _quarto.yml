@@ -26,7 +26,7 @@ website:
     right:
       - icon: person-circle
       - text: "Moodle"
-        href: https://moodle.hdm-stuttgart.de/login/index.php
+        href: https://moodle.hdm-stuttgart.de/course/view.php?id=16305
         aria-label: Moodle    
 #    background: "#325b74"    
 
@@ -37,12 +37,9 @@ website:
     pinned: true
     align: center
     tools:
-      - icon: github
-        href: https://github.com/myplaceholder
-        text: "GitHub organization"
       - icon: person-fill
         text: "Moodle"
-        href: https://moodle.hdm-stuttgart.de/login/index.php
+        href: https://moodle.hdm-stuttgart.de/course/view.php?id=16305
 
     style: docked
     search: true
@@ -56,13 +53,6 @@ website:
             text: Support
           - href: index.qmd
             text: Schedule
-      - section: "Project"
-        contents:
-          - href: project-description.qmd
-            text: Description
-          - href: project-tips-resources.qmd
-            text: Tips + resources
-
 
 format:
   html:
