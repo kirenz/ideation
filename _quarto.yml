@@ -49,8 +49,6 @@ website:
         contents:
           - href: syllabus.qmd
             text: Syllabus
-          - href: course-support.qmd
-            text: Support
           - href: index.qmd
             text: Schedule
 
