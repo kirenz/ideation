@@ -14,5 +14,5 @@ Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wir
 
 |	Woche	|	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|		Links		|
 |	---	|	---	|	---	|	---	|	---	|		---		|		---		|
-|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	<!--	[📑](https://docs.google.com/presentation/d/1WgI5GeJUny_RwJX2g6XH1mOIaHpEJl0UpC6wTfaSVK0/export/pdf)	-->	|	<!--	[📝](https://miro.com/app/board/uXjVNdYUiXg=/)	-->	|
+|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	<!--	[📑](https://docs.google.com/presentation/d/1WgI5GeJUny_RwJX2g6XH1mOIaHpEJl0UpC6wTfaSVK0/export/pdf)	-->	|		[📝](https://miro.com/app/board/uXjVNdYUiXg=/)	|
 |	1	|	2	|	10.10.	|	Jobs to be Done	|	[📚](https://drive.google.com/file/d/1SD4deyMxYj7VRbeEcPmiKZY6oJbzSe0R/view?usp=drive_link)	|	<!--	[📑](https://drive.google.com/file/d/1gs5HuJiTM3-3WXB5l55gvLMVMJMgZrof/view?usp=sharing)	-->	|	<!--	[📝](https://miro.com/app/board/uXjVNbhJoYg=/)	-->	|
