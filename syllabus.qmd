@@ -22,7 +22,7 @@ title: "Syllabus"
    - Nutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.
 
 3. **Produktentwicklung und Design**:
-   - Gestaltung von digitalen und physischen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
+   - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
    - Erstellung von Mock-Ups und Prototypen für das digitale Produkt.
 
 4. **Dokumentation und Präsentation**:
@@ -30,13 +30,11 @@ title: "Syllabus"
    - Entwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen.
 
 
-## Literaturhinweise
-
 
 
 ## Prüfungsleistung
 
-Die Studierenden sollen in Vierer-Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
+Sie sollen in Vierer-Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
 
 Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
@@ -48,8 +46,8 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    - Anwendung der Blue Ocean Strategy zur Identifizierung von Alleinstellungsmerkmalen und Differenzierung im Markt.
    - Ausfüllen des Business Model Canvas und des Value Proposition Canvas, um das Geschäftsmodell und den Wertvorschlag klar zu artikulieren.
 
-3. **Produktdesign und Mock-Up-Erstellung**:
-   - Design des physischen Produkts und Erstellung eines Mock-Ups für das digitale Produkt.
+3. **Mock-Up-Erstellung**:
+   - Erstellung eines Mock-Ups für das digitale Produkt.
 
 4. **Dokumentation**:
    - Verfassen eines Berichts, der die Recherche, die entwickelten Ideen, das Geschäftsmodell und die Produktentwürfe umfasst.
