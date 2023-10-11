@@ -23,7 +23,7 @@ title: "Syllabus"
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
-   - Erstellung von Mock-Ups und Prototypen für das digitale Produkt.
+   - Erstellung von Wireframes und Mock-Ups für das digitale Produkt.
 
 4. **Dokumentation und Präsentation**:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
@@ -46,8 +46,9 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    - Anwendung der Blue Ocean Strategy zur Identifizierung von Alleinstellungsmerkmalen und Differenzierung im Markt.
    - Ausfüllen des Business Model Canvas und des Value Proposition Canvas, um das Geschäftsmodell und den Wertvorschlag klar zu artikulieren.
 
-3. **Mock-Up-Erstellung**:
-   - Erstellung eines Mock-Ups für das digitale Produkt.
+3. **Produktbeschreibung und Mock-Up-Erstellung**:
+   - Systematische Herleitung der Produkteigenschaften und Erstellung einer Produktvisualisierung
+   - Erstellung eines Wireframes und Mock-Ups für das digitale Produkt.
 
 4. **Dokumentation**:
    - Verfassen eines Berichts, der die Recherche, die entwickelten Ideen, das Geschäftsmodell und die Produktentwürfe umfasst.
@@ -57,18 +58,18 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    
 
 - Die Dokumentation sollte nicht länger als 12 Seiten sein.
-- Der Elevator Pitch sollte klar und prägnant sein, und das Interesse des Publikums wecken.
+- Die Präsentation ("Elevator Pitch") sollte klar und prägnant sein, und das Interesse des Publikums wecken.
 
 
 ## Bewertungsraster
 
 | Kriterium                         | Punkte | Bewertung                          |
 |-----------------------------------|--------|------------------------------------|
-| **Recherche und Ideenfindung**    | 20     | Tiefe der Recherche, Originalität der Idee |
-| **Anwendung der Frameworks**      | 20     | Verständlichkeit, Vollständigkeit, Anwendung der Tools |
+| **Recherche und Ideenfindung**    | 10     | Tiefe der Recherche, Originalität der Idee |
+| **Anwendung der Frameworks**      | 30     | Verständlichkeit, Vollständigkeit, Anwendung der Tools |
 | **Produktdesign und Mock-Up**     | 20     | Kreativität, technische Umsetzbarkeit |
-| **Dokumentation**                 | 20     | Struktur, Inhalt, Klarheit, Relevanz |
-| **Präsentation**                  | 20     | Klarheit, Überzeugungskraft, Zeitmanagement |
+| **Dokumentation**                 | 35     | Struktur, Inhalt, Klarheit, Relevanz |
+| **Präsentation**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
 
 
 
