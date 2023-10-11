@@ -13,6 +13,6 @@ Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wir
 :::
 
 
-|	Woche	|	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|	Links	|
+|	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Miro	|
 |	---	|	---	|	---	|	---	|	---	|		---		|	---	|
-|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	<!--	[📑](https://docs.google.com/presentation/d/1WgI5GeJUny_RwJX2g6XH1mOIaHpEJl0UpC6wTfaSVK0/export/pdf)	-->	|		|
+|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	<!--	[📑](https://docs.google.com/presentation/d/1WgI5GeJUny_RwJX2g6XH1mOIaHpEJl0UpC6wTfaSVK0/export/pdf)	-->	|	[📝](https://miro.com/app/board/uXjVNdYUiXg=/)	|
