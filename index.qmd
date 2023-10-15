@@ -14,4 +14,5 @@ Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wir
 
 |	Woche	|	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|		Links		|
 |	---	|	---	|	---	|	---	|	---	|		---		|		---		|
-|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|	[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|		[📝](https://miro.com/app/board/uXjVNdYUiXg=/)		|
+|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|		[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|		[📝](https://miro.com/app/board/uXjVNdYUiXg=/)		|
+|	2	|	2	|	17.10.	|	Design Thinking Workshop mit Generator  Startup Center	|		|				|				|
