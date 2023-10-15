@@ -7,7 +7,7 @@ title: "Syllabus"
 
 |           | Tag       | Uhrzeit              | Ort |
 |-----------|-----------|-------------------|----------|
-| Vorlesung   | Mittwoch    | 10:00  - 11:30  |  S103  |
+| Vorlesung   | Mittwoch    | 10:00  - 11:30  |  S003  |
 
 
 ## Lernziele
