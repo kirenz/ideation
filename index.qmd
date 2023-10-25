@@ -12,7 +12,8 @@ Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für
 Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird und dass der Zeitplan der Themen und Aufgaben im Laufe des Semesters aktualisiert werden kann.
 :::
 
-|	Woche	|	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|		Links		|
-|	---	|	---	|	---	|	---	|	---	|		---		|		---		|
-|	1	|	1	|	10.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|		[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|		[📝](https://miro.com/app/board/uXjVNdYUiXg=/)		|
-|	2	|	2	|	17.10.	|	Design Thinking Workshop mit Generator Startup Center	|		|		[📑](https://moodle.hdm-stuttgart.de/pluginfile.php/512067/mod_resource/content/0/Idea_OMM.pdf)		|				|
+|	Woche	|	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|	
+|	---	|	---	|	---	|	---	|	---	|		---		|	
+|	1	|	1	|	11.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|		[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|	
+|	2	|	2	|	18.10.	|	Design Thinking Workshop mit Generator Startup Center	|		|		[📑](https://moodle.hdm-stuttgart.de/pluginfile.php/512067/mod_resource/content/0/Idea_OMM.pdf)		|	
+|	3	|	3	|	25.10.	|	Value Proposition Canvas & Jobs to be Done	|	[📚](https://drive.google.com/file/d/1SD4deyMxYj7VRbeEcPmiKZY6oJbzSe0R/view?usp=drive_link)	|		[📑](https://drive.google.com/file/d/1gs5HuJiTM3-3WXB5l55gvLMVMJMgZrof/view?usp=sharing)		|	
