@@ -18,8 +18,8 @@ title: "Syllabus"
    - Generierung und Bewertung von Ideen für digitale und physische Produkte.
 
 2. **Anwendung von Entrepreneurship-Frameworks**:
-   - Einführung und Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
-   - Nutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.
+   - Einführung und Anwendung eines Konzepts (bspw. Blue Ocean Strategy) zur Identifikation von Marktnischen und Differenzierung.
+   - Nutzen des Business Model Canvas und des Value Proposition Canvas (inklusive User Personas) zur Strukturierung und Darstellung von Geschäftsmodellen.
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
@@ -34,7 +34,7 @@ title: "Syllabus"
 
 ## Prüfungsleistung
 
-Sie sollen in Vierer-Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
+Sie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
 
 Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
