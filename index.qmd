@@ -17,3 +17,4 @@ Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wir
 |	1	|	1	|	11.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|		[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|	
 |	2	|	2	|	18.10.	|	Design Thinking Workshop mit Generator Startup Center	|		|		[📑](https://moodle.hdm-stuttgart.de/pluginfile.php/512067/mod_resource/content/0/Idea_OMM.pdf)		|	
 |	3	|	3	|	25.10.	|	Value Proposition Canvas & Jobs to be Done	|	[📚](https://drive.google.com/file/d/1SD4deyMxYj7VRbeEcPmiKZY6oJbzSe0R/view?usp=drive_link)	|		[📑](https://drive.google.com/file/d/1gs5HuJiTM3-3WXB5l55gvLMVMJMgZrof/view?usp=sharing)		|	
+|	4	|	4	|	01.11.	|	Generative AI & Teambesprechungen	|	[📚](https://openai.com/blog)	|		[📑](https://www.youtube.com/watch?v=U9mJuUkhUzk)		|	
