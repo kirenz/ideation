@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ideation und Entrepreneurship",
-    "section": "",
-    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird und dass der Zeitplan der Themen und Aufgaben im Laufe des Semesters aktualisiert werden kann.\n\n\n\n\n\nWoche\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑\n\n\n3\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑"
-  },
-  {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Kursübersicht",
-    "section": "",
-    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln.\n\nMarktforschung und Ideenfindung:\n\nErkennen von Marktbedingungen und Identifizierung von Marktlücken.\nGenerierung und Bewertung von Ideen für digitale und physische Produkte.\n\nAnwendung von Entrepreneurship-Frameworks:\n\nEinführung und Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nNutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen und physischen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups und Prototypen für das digitale Produkt.\n\nDokumentation und Präsentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.\nEntwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen."
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -75,5 +61,19 @@
     "title": "Notebook",
     "section": "Data",
     "text": "Data"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Kursübersicht",
+    "section": "",
+    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln.\n\nMarktforschung und Ideenfindung:\n\nErkennen von Marktbedingungen und Identifizierung von Marktlücken.\nGenerierung und Bewertung von Ideen für digitale und physische Produkte.\n\nAnwendung von Entrepreneurship-Frameworks:\n\nEinführung und Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nNutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen und physischen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups und Prototypen für das digitale Produkt.\n\nDokumentation und Präsentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.\nEntwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ideation und Entrepreneurship",
+    "section": "",
+    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird und dass der Zeitplan der Themen und Aufgaben im Laufe des Semesters aktualisiert werden kann.\n\n\n\n\n\nWoche\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑\n\n\n3\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑\n\n\n4\n4\n01.11.\nGenerative AI & Teambesprechungen\n📚\n📑"
   }
 ]
