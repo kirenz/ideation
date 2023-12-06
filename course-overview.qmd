@@ -7,21 +7,3 @@ title: "Kursübersicht"
 
 Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln. 
 
-
-1. **Marktforschung und Ideenfindung**: 
-   - Erkennen von Marktbedingungen und Identifizierung von Marktlücken.
-   - Generierung und Bewertung von Ideen für digitale und physische Produkte.
-
-2. **Anwendung von Entrepreneurship-Frameworks**:
-   - Einführung und Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
-   - Nutzen des Business Model Canvas und des Value Proposition Canvas zur Strukturierung und Darstellung von Geschäftsmodellen.
-
-3. **Produktentwicklung und Design**:
-   - Gestaltung von digitalen und physischen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
-   - Erstellung von Mock-Ups und Prototypen für das digitale Produkt.
-
-4. **Dokumentation und Präsentation**:
-   - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
-   - Entwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen.
-
-
