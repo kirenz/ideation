@@ -32,7 +32,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.
    - Die Dokumentation sollte nicht länger als 12 Seiten sein.
 
-5. **Präsentation**:
+5. **Präsentation (am 31.01.24)**:
    - Vorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).
    - Die Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.
 
@@ -45,7 +45,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 | **Anwendung der Frameworks**      | 30     | Anwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)  |
 | **Produktdesign und Mock-Up**     | 20     | Relevanz hinsichtlich Marktanforderungen, Umsetzung in Figma |
 | **Dokumentation**                 | 35     | Struktur, Inhalt, Klarheit, Relevanz |
-| **Präsentation**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
+| **Präsentation (31.01.24)**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
 
 
 
