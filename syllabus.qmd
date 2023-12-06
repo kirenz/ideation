@@ -28,16 +28,13 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
    - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren); Wählen Sie bei school's name: **Fachhochschule Stuttgart, Hochschule der Medien**).
 
-4. **Dokumentation und Präsentation**:
-   - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
-   - Entwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen.
+4. **Dokumentation**:
+   - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.
+   - Die Dokumentation sollte nicht länger als 12 Seiten sein.
 
 5. **Präsentation**:
-   - Vorbereitung und Durchführung eines 5-minütigen Elevator Pitches, um das Geschäftsmodell und die Produktidee vorzustellen.
-   
-
-- Die Dokumentation sollte nicht länger als 12 Seiten sein.
-- Die Präsentation ("Elevator Pitch") sollte klar und prägnant sein, und das Interesse des Publikums wecken.
+   - Vorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).
+   - Die Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.
 
 
 ## Bewertungsraster
