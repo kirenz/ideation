@@ -26,7 +26,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
-   - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren)).
+   - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren); Wählen Sie bei school's name: **Fachhochschule Stuttgart, Hochschule der Medien**).
 
 4. **Dokumentation und Präsentation**:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
@@ -45,8 +45,8 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 | Kriterium                         | Punkte | Bewertung                          |
 |-----------------------------------|--------|------------------------------------|
 | **Recherche und Ideenfindung**    | 10     | Tiefe der Recherche, Originalität der Idee |
-| **Anwendung der Frameworks**      | 30     | Verständlichkeit, Vollständigkeit, Anwendung der Frameworks |
-| **Produktdesign und Mock-Up**     | 20     | Kreativität, technische Umsetzbarkeit |
+| **Anwendung der Frameworks**      | 30     | Anwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)  |
+| **Produktdesign und Mock-Up**     | 20     | Relevanz hinsichtlich Marktanforderungen, Umsetzung in Figma |
 | **Dokumentation**                 | 35     | Struktur, Inhalt, Klarheit, Relevanz |
 | **Präsentation**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
 
