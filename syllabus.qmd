@@ -10,48 +10,27 @@ title: "Syllabus"
 | Vorlesung   | Mittwoch    | 10:00  - 11:30  |  S003  |
 
 
-## Lernziele
+## Lernziele und Prüfungsleistung
+
+Sie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. 
+
+Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
 
-1. **Marktforschung und Ideenfindung**: 
-   - Erkennen von Marktbedingungen und Identifizierung von Marktlücken.
-   - Generierung und Bewertung von Ideen für digitale und physische Produkte.
+1. **Ideenfindung (entlang Design Thinking-Prozess)**: 
+   - Generierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).
 
 2. **Anwendung von Entrepreneurship-Frameworks**:
-   - Einführung und Anwendung eines Konzepts (bspw. Blue Ocean Strategy) zur Identifikation von Marktnischen und Differenzierung.
-   - Nutzen des Business Model Canvas und des Value Proposition Canvas (inklusive User Personas) zur Strukturierung und Darstellung von Geschäftsmodellen.
+   - Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
+   - Erstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Personas) zur Erklärung des eigenen Geschäftsmodells.
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
-   - Erstellung von Wireframes und Mock-Ups für das digitale Produkt.
+   - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren)).
 
 4. **Dokumentation und Präsentation**:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von der Ideenfindung bis zum endgültigen Geschäftsmodell umfasst.
    - Entwicklung und Durchführung eines überzeugenden Elevator Pitches, um das Geschäftsmodell vorzustellen.
-
-
-
-
-## Prüfungsleistung
-
-Sie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden. Der Entwurf soll mithilfe gängiger Werkzeuge wie der Blue Ocean Strategy, dem Business Model Canvas und dem Value Proposition Canvas erstellt werden.
-
-Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
-
-1. **Recherche und Ideenfindung**:
-   - Recherche zu aktuellen Marktbedingungen und Identifizierung einer Marktlücke.
-   - Entwicklung einer Geschäfts-Idee für ein kombiniertes digitales und physisches Produkt.
-
-2. **Erstellung des Geschäftsmodells**:
-   - Anwendung der Blue Ocean Strategy zur Identifizierung von Alleinstellungsmerkmalen und Differenzierung im Markt.
-   - Ausfüllen des Business Model Canvas und des Value Proposition Canvas, um das Geschäftsmodell und den Wertvorschlag klar zu artikulieren.
-
-3. **Produktbeschreibung und Mock-Up-Erstellung**:
-   - Systematische Herleitung der Produkteigenschaften und Erstellung einer Produktvisualisierung
-   - Erstellung eines Wireframes und Mock-Ups für das digitale Produkt.
-
-4. **Dokumentation**:
-   - Verfassen eines Berichts, der die Recherche, die entwickelten Ideen, das Geschäftsmodell und die Produktentwürfe umfasst.
 
 5. **Präsentation**:
    - Vorbereitung und Durchführung eines 5-minütigen Elevator Pitches, um das Geschäftsmodell und die Produktidee vorzustellen.
@@ -66,7 +45,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 | Kriterium                         | Punkte | Bewertung                          |
 |-----------------------------------|--------|------------------------------------|
 | **Recherche und Ideenfindung**    | 10     | Tiefe der Recherche, Originalität der Idee |
-| **Anwendung der Frameworks**      | 30     | Verständlichkeit, Vollständigkeit, Anwendung der Tools |
+| **Anwendung der Frameworks**      | 30     | Verständlichkeit, Vollständigkeit, Anwendung der Frameworks |
 | **Produktdesign und Mock-Up**     | 20     | Kreativität, technische Umsetzbarkeit |
 | **Dokumentation**                 | 35     | Struktur, Inhalt, Klarheit, Relevanz |
 | **Präsentation**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
