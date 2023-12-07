@@ -12,13 +12,14 @@ Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für
 Bitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird.
 :::
 
+
 |	Nr.	|	Datum	|	Thema	|	Literatur	|		Unterlagen		|	
 |	---	|	---	|	---	|	---	|		---		|	
 |	1	|	11.10.	|	Business Model Canvas	|	[📚](https://www.strategyzer.com/library/the-business-model-canvas)	|		[📑](https://docs.google.com/presentation/d/1tUPlpKh4d-NT8zHSjxVKiRBcuvr1CAGMNq5Pan26XvU/export/pdf)		|	
-|	2	|	18.10.	|	Design Thinking Workshop mit Generator Startup Center	|		|		[📑](https://moodle.hdm-stuttgart.de/pluginfile.php/512067/mod_resource/content/0/Idea_OMM.pdf)		|	
+|	2	|	18.10.	|	Design Thinking Workshop mit Generator Startup Center	|		|		[📑 Moodle](https://moodle.hdm-stuttgart.de/pluginfile.php/512067/mod_resource/content/0/Idea_OMM.pdf)		|	
 |	3	|	25.10.	|	Value Proposition Canvas & Jobs to be Done	|	[📚](https://drive.google.com/file/d/1SD4deyMxYj7VRbeEcPmiKZY6oJbzSe0R/view?usp=drive_link)	|		[📑](https://drive.google.com/file/d/1gs5HuJiTM3-3WXB5l55gvLMVMJMgZrof/view?usp=sharing)		|	
 |	4	|	08.11.	|	Generative AI & Teambesprechungen	|	[📚](https://openai.com/blog)	|		[📑](https://www.youtube.com/watch?v=U9mJuUkhUzk)		|	
 |	5	|	15.11.	|	Blue Ocean Strategy	|		|		[📑](https://drive.google.com/drive/folders/17wWeNCSvNC7z-rwKU5srU8WisEIWc8GC?usp=drive_link)		|	
 |	6	|	22.11.	|	No lecture	|		|				|	
-|	7	|	29.11.	|	Workshop mit Amsterdam University of Applied Sciences	|		|				|	
-|	8	|	06.12.	|	Design Thinking Workshop mit zoi	|	[📚](https://uxplanet.org/design-thinking-is-for-everyone-design-a-wallet-challenge-80422329e83d)	|		[📑](https://moodle.hdm-stuttgart.de/pluginfile.php/521631/mod_resource/content/0/HdM%20%E2%80%94%20Design%20Thinking%20Workshop%2012_2023.pdf)		|	
+|	7	|	29.11.	|	Workshop mit Amsterdam University of Applied Sciences	|		|		[📑 Moodle](https://moodle.hdm-stuttgart.de/pluginfile.php/521764/mod_resource/content/0/Workshop%20Innovative%20Concepts.pdf)		|	
+|	8	|	06.12.	|	Design Thinking Workshop mit zoi	|	[📚](https://uxplanet.org/design-thinking-is-for-everyone-design-a-wallet-challenge-80422329e83d)	|		[📑 Moodle](https://moodle.hdm-stuttgart.de/pluginfile.php/521631/mod_resource/content/0/HdM%20%E2%80%94%20Design%20Thinking%20Workshop%2012_2023.pdf)		|	
