@@ -26,7 +26,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
-   - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren); Wählen Sie bei school's name: **Fachhochschule Stuttgart, Hochschule der Medien**).
+   - Erstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen [Figma-Account für Studierende](https://help.figma.com/hc/de/articles/360041061214-Bildungsstatus-verifizieren); Wählen Sie bei school's name: **Fachhochschule Stuttgart, Hochschule der Medien**). Tutorial: [Einführung in Prototyping mit Figma](https://help.figma.com/hc/de/articles/360040314193-Einf%C3%BChrung-in-Prototyping-in-Figma).
 
 4. **Dokumentation**:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.
