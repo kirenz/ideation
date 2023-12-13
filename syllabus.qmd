@@ -47,7 +47,7 @@ Geamtpunktzahl: 40 Punkte
 | **Anwendung der Frameworks**      | 30%     | Anwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)  |
 | **Produktdesign und Mock-Up**     | 15%     | Relevanz hinsichtlich Marktanforderungen, Umsetzung in Figma |
 | **Dokumentation**                 | 30%     | Struktur, Inhalt, Klarheit, Relevanz |
-| **Präsentation (31.01.24)**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
+| **Präsentation (31.01.24)**       | 15%     | Klarheit, Überzeugungskraft, Zeitmanagement |
 
 
 
