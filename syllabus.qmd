@@ -39,12 +39,14 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
 ## Bewertungsraster
 
-| Kriterium                         | Punkte | Bewertung                          |
+Geamtpunktzahl: 40 Punkte
+
+| Kriterium                         | Prozent | Bewertung                          |
 |-----------------------------------|--------|------------------------------------|
-| **Recherche und Ideenfindung**    | 10     | Tiefe der Recherche, Originalität der Idee |
-| **Anwendung der Frameworks**      | 30     | Anwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)  |
-| **Produktdesign und Mock-Up**     | 15     | Relevanz hinsichtlich Marktanforderungen, Umsetzung in Figma |
-| **Dokumentation**                 | 30     | Struktur, Inhalt, Klarheit, Relevanz |
+| **Recherche und Ideenfindung**    | 10%     | Tiefe der Recherche, Originalität der Idee |
+| **Anwendung der Frameworks**      | 30%     | Anwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)  |
+| **Produktdesign und Mock-Up**     | 15%     | Relevanz hinsichtlich Marktanforderungen, Umsetzung in Figma |
+| **Dokumentation**                 | 30%     | Struktur, Inhalt, Klarheit, Relevanz |
 | **Präsentation (31.01.24)**                  | 15     | Klarheit, Überzeugungskraft, Zeitmanagement |
 
 
@@ -54,7 +56,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 Die Note für die erzielten Punkte wird auf der Grundlage der folgenden Schwellenwerte ermittelt:
 
 
-|  Note       | Erreichte Punkte |
+|  Note       | Erreichte Prozent |
 |--------------|--------------------|
 | 1.0           | 96 - 100          |
 | 1.3           | 91 - 95           |
