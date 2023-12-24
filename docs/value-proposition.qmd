@@ -65,3 +65,7 @@ Customer Gains:
 - [Miro Customer Value Proposition Map](https://miro.com/miroverse/customer-value-proposition-map/)
 
 - [Value Proposition Design Book Chapter](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek)
+
+## Nächste Schritte
+
+Nach das Value Proposition Canvas erstellt wurde, kann das [Business Model Canvas](/docs/business-model-canvas.qmd) definiert werden.
