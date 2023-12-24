@@ -5,18 +5,15 @@ number-sections: false
 
 ## Grundlagen
 
-Der Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ihr Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. 
-
-Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Der BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren. 
+Das Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ein Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Das BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren. 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QoAOzMTLP5s?si=fuSWYBSFScjd0JDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
 Dieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten. 
 
-In einer sich schnell verändernden Geschäftswelt bietet der Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.
+In einer sich schnell verändernden Geschäftswelt bietet das Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.
 
 
 ## 9 Felder des Business Model Canvas
