@@ -1,0 +1,67 @@
+---
+title: "Value Proposition Canvas"
+number-sections: true
+---
+
+## Einleitung
+
+Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-Design. Es hilft, das Angebot eines Unternehmens (die "Value Map") auf die Bedürfnisse und Wünsche eines spezifischen Kundensegments abzustimmen.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ReM1uqmVfP0?si=JTsaqJfNlw8UFos5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Die Verwendung des Konzepts bietet sich besonders im Anschluss an die Erstellung von [User Personas](/docs/user-persona.qmd) und/oder [Buyer Personas](/docs/buyer-persona.qmd) an, da in den Personas bereits die notwendigen Informationen für die Erstellung des Kundensegment-Profils (Customer Profile) enthalten sind.
+
+## Kundensegment-Profil
+
+### Aufgaben des Kunden
+
+- **Funktionale Aufgaben**: Spezifische Aufgaben oder Probleme des Kunden, wie Rasen mähen oder einen Bericht schreiben.
+
+- **Soziale Aufgaben**: Bedürfnisse des Kunden bezüglich seines sozialen Status, wie anerkannt oder als kompetent wahrgenommen werden.
+
+- **Persönliche/emotionale Aufgaben**: Streben nach emotionalen Zuständen wie Sicherheit oder Wohlbefinden.
+
+### Schmerzpunkte des Kunden
+
+Customer Pains:
+
+- **Funktionale Schmerzpunkte**: Probleme, die der Kunde bei der Ausführung einer Aufgabe erlebt.
+
+- **Soziale Schmerzpunkte**: Negative soziale Auswirkungen, wie schlechtes Ansehen.
+
+- **Emotionale Schmerzpunkte**: Negative emotionale Erfahrungen wie Stress oder Unsicherheit.
+
+### Gewinne des Kunden 
+
+Customer Gains:
+
+- **Erforderliche Gewinne**: Grundlegende Erwartungen des Kunden an eine Lösung.
+
+- **Erwartete Gewinne**: Zusätzliche, aber vorhersehbare Vorteile, die der Kunde von einer Lösung erwartet.
+
+- **Erwünschte Gewinne**: Vorteile, die über die Erwartungen hinausgehen und vom Kunden sehr geschätzt werden.
+
+## Wertkarte (Value Map)
+
+### Produkte und Dienstleistungen
+
+- **Angebot**: Eine Auflistung aller Produkte und Dienstleistungen, die die Kunden bei der Erfüllung ihrer funktionalen, sozialen oder emotionalen Aufgaben unterstützen.
+
+### Schmerzpunkte-Linderer (Pain Relievers)
+
+- **Lösung von Problemen**: Konkrete Maßnahmen, wie Produkte und Dienstleistungen die funktionalen, sozialen und emotionalen Schmerzpunkte der Kunden lindern.
+- **Vermeidung negativer Erfahrungen**: Strategien zur Vermeidung von Frustrationen, Stress oder negativen sozialen Konsequenzen.
+- **Risikoreduzierung**: Wege, wie das Risiko für den Kunden in Bezug auf finanzielle Verluste, Vertrauensbrüche oder technische Probleme minimiert wird.
+
+### Nutzen-Schaffer (Gain Creators)
+
+- **Erwartungsübertriffung**: Beschreibt, wie Produkte und Dienstleistungen über die grundlegenden Erwartungen des Kunden hinausgehen und Zusatznutzen schaffen.
+- **Steigerung der Kundenzufriedenheit**: Methoden, um positive emotionale und soziale Ergebnisse zu erzielen, die den Kunden begeistern.
+- **Leistungssteigerung**: Darstellung, wie das Angebot die Leistung oder Effizienz des Kunden verbessern kann.
+
+## Ressourcen
+
+- [Miro Customer Value Proposition Map](https://miro.com/miroverse/customer-value-proposition-map/)
+
+- [Value Proposition Design Book Chapter](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek)
