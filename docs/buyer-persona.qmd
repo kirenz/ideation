@@ -1,0 +1,69 @@
+---
+title: "Buyer Persona"
+number-sections: true
+---
+
+## Definition
+
+Eine **Buyer Persona** ist eine semi-fiktive Darstellung des idealen Kunden, basierend auf Marktforschung und realen Daten über bestehende Kunden.
+
+
+## Unterschied zu Zielgruppen
+
+- Zielgruppen sind breiter und weniger detailliert als Buyer Personas.
+
+- Zielgruppen basieren auf demografischen Merkmalen, während Buyer Personas tiefergehende Informationen beinhalten.
+
+## Unterschied zu User Personas
+
+- [User Personas](/user-personas.qmd) repräsentieren Nutzer eines Produkts oder Services, fokussieren auf Nutzerverhalten und -erfahrungen.
+
+- Buyer Personas sind für Marketing und Vertrieb relevant, während User Personas für Produktentwicklung und Design genutzt werden.
+
+Während beide Personas ähnliche Konzepte sind, unterscheiden sie sich in ihrem Fokus. Eine Buyer Persona konzentriert sich auf die Merkmale und Verhaltensweisen des Käufers, einschließlich demografischer Daten, um ein besseres Verständnis für Marketing und Vertrieb zu schaffen. Im Gegensatz dazu richtet sich eine User Persona auf die Erfahrungen und Bedürfnisse der tatsächlichen Nutzer eines Produkts oder Dienstes, um dessen Benutzerfreundlichkeit zu optimieren. Bei Vertriebssoftware beispielsweise adressiert die Buyer Persona den Vertriebsleiter oder Geschäftsinhaber als Käufer, während die User Persona den Vertriebsmitarbeiter als Endnutzer fokussiert. 
+
+## Integration des Jobs-to-be-Done-Ansatzes
+
+Der [JTBD-Ansatz](/jobs-to-be-done.qmd) ergänzt Buyer Personas, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele.
+
+## Erstellung von Buyer Personas mit JTBD
+
+1. **Recherche**: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.
+2. **Ermittlung der 'Jobs'**: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen 'Jobs' erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).).
+3. **Integration in die Persona-Beschreibung**: Die identifizierten 'Jobs' werden in die Beschreibung der Buyer Persona integriert, um ein umfassenderes Bild der Käufer*innen zu erstellen.
+4. **Fokus auf Lösungen**: Marketingbotschaften werden so gestaltet, dass sie genau auf die 'Jobs' zugeschnitten sind, die Käufer*innen erledigen möchten.
+
+
+## Schlüsselelemente einer Buyer Persona
+
+1. **Hintergrund:** Beruf, Karriereweg, Familiensituation.
+2. **Demografische Daten:** Geschlecht, Alter, Einkommen, Wohnort.
+3. **Identifikatoren:** Verhaltensmuster, bevorzugte Kommunikationskanäle.
+4. **Ziele und Herausforderungen:** Persönliche und berufliche Ambitionen (inklusive Jobs), Hindernisse.
+5. **Echte Zitate:** Direkte Aussagen von Kunden.
+6. **Häufige Einwände:** Typische Vorbehalte gegenüber Produkten/Dienstleistungen.
+7. **Marketing-Botschaft:** Positionierung der Marke oder des Produkts.
+
+## Anwendungsbereiche
+
+- **Marketing:** Erstellung zielgerichteter Kampagnen.
+
+- **Vertrieb:** Besseres Verständnis der Kundenbedürfnisse.
+
+- **Produktentwicklung:** Anpassung an spezifische Kundenanforderungen.
+
+## Vorteile
+
+- Verbessertes Verständnis der Kunden.
+- Effektiveres und zielgerichtetes Marketing.
+- Steigerung der Kundenzufriedenheit und -bindung.
+
+Im Marketing helfen Buyer-Personas den Marketingteams, ihre Marketingaktivitäten gezielt einzusetzen. Mithilfe von Buyer Personas weiß das Marketingteam, welche Art von Inhalten bei seiner Zielgruppe Anklang findet. So können sie sicherstellen, dass alle veröffentlichten Inhalte auf das abgestimmt sind, was die Kunden tatsächlich interessiert.
+
+## Ressourcen
+
+- [Miro Buyer Persona-Template](https://miro.com/de/templates/buyer-persona/)
+
+- [PPT-Template für die Erstellung von Buyer Personas](https://docs.google.com/presentation/d/1dEyL_jVAl2meREQHJdn38u8PJD-26G7gjFbWXT0Abco/edit?usp=sharing)
+
+- [Buyer Persona Tool von HubSpot](https://www.hubspot.de/make-my-persona)
