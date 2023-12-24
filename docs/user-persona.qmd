@@ -56,3 +56,7 @@ Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Element
 ## Ressourcen
 
 - [Miro User-Persona Template](https://miro.com/templates/personas/) 
+
+## Nächste Schritte
+
+Nachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) mit dem Wertangebot eines Unternehmens abgeglichen werden. 
