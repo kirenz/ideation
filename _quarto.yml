@@ -51,6 +51,14 @@ website:
             text: Syllabus
           - href: index.qmd
             text: Schedule
+      - section: "Ressources"
+        contents:
+          - href: docs/jobs-to-be-done.qmd
+            text: Jobs to be Done
+          - href: docs/user-persona.qmd
+            text: User Persona
+          - href: docs/buyer-persona.qmd
+            text: Buyer Persona  
 
 format:
   html:
