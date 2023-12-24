@@ -1,6 +1,6 @@
 ---
 title: "Jobs to be Done"
-number-sections: true
+number-sections: false
 ---
 
 
