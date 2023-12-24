@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/kirenz/ideation/code/notebook.html</loc>
-    <lastmod>2023-12-13T15:12:51.957Z</lastmod>
+    <loc>https://github.com/kirenz/ideation/docs/buyer-persona.html</loc>
+    <lastmod>2023-12-24T10:46:26.418Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/kirenz/ideation/course-overview.html</loc>
-    <lastmod>2023-12-13T15:12:51.261Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/ideation/index.html</loc>
-    <lastmod>2023-12-13T15:12:50.409Z</lastmod>
+    <loc>https://github.com/kirenz/ideation/docs/user-personas.html</loc>
+    <lastmod>2023-12-24T10:46:25.702Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/kirenz/ideation/syllabus.html</loc>
-    <lastmod>2023-12-13T15:12:51.665Z</lastmod>
+    <lastmod>2023-12-24T10:46:25.026Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/ideation/index.html</loc>
+    <lastmod>2023-12-24T10:46:23.738Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/ideation/course-overview.html</loc>
+    <lastmod>2023-12-24T10:46:24.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/ideation/code/notebook.html</loc>
+    <lastmod>2023-12-24T10:46:25.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/ideation/docs/jobs-to-be-done.html</loc>
+    <lastmod>2023-12-24T10:46:26.058Z</lastmod>
   </url>
 </urlset>

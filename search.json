@@ -1,38 +1,129 @@
 [
   {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
+    "objectID": "docs/buyer-persona.html",
+    "href": "docs/buyer-persona.html",
+    "title": "Buyer Persona",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "Eine Buyer Persona ist eine semi-fiktive Darstellung des idealen Kunden, basierend auf Marktforschung und realen Daten über bestehende Kunden."
   },
   {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
+    "objectID": "docs/buyer-persona.html#definition",
+    "href": "docs/buyer-persona.html#definition",
+    "title": "Buyer Persona",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "Eine Buyer Persona ist eine semi-fiktive Darstellung des idealen Kunden, basierend auf Marktforschung und realen Daten über bestehende Kunden."
   },
   {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
+    "objectID": "docs/buyer-persona.html#unterschied-zu-zielgruppen",
+    "href": "docs/buyer-persona.html#unterschied-zu-zielgruppen",
+    "title": "Buyer Persona",
+    "section": "2 Unterschied zu Zielgruppen",
+    "text": "2 Unterschied zu Zielgruppen\n\nZielgruppen sind breiter und weniger detailliert als Buyer Personas.\nZielgruppen basieren auf demografischen Merkmalen, während Buyer Personas tiefergehende Informationen beinhalten."
   },
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Kursübersicht",
-    "section": "",
-    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln."
+    "objectID": "docs/buyer-persona.html#unterschied-zu-user-personas",
+    "href": "docs/buyer-persona.html#unterschied-zu-user-personas",
+    "title": "Buyer Persona",
+    "section": "3 Unterschied zu User Personas",
+    "text": "3 Unterschied zu User Personas\n\nUser Personas repräsentieren Nutzer eines Produkts oder Services, fokussieren auf Nutzerverhalten und -erfahrungen.\nBuyer Personas sind für Marketing und Vertrieb relevant, während User Personas für Produktentwicklung und Design genutzt werden.\n\nWährend beide Personas ähnliche Konzepte sind, unterscheiden sie sich in ihrem Fokus. Eine Buyer Persona konzentriert sich auf die Merkmale und Verhaltensweisen des Käufers, einschließlich demografischer Daten, um ein besseres Verständnis für Marketing und Vertrieb zu schaffen. Im Gegensatz dazu richtet sich eine User Persona auf die Erfahrungen und Bedürfnisse der tatsächlichen Nutzer eines Produkts oder Dienstes, um dessen Benutzerfreundlichkeit zu optimieren. Bei Vertriebssoftware beispielsweise adressiert die Buyer Persona den Vertriebsleiter oder Geschäftsinhaber als Käufer, während die User Persona den Vertriebsmitarbeiter als Endnutzer fokussiert."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ideation und Entrepreneurship",
+    "objectID": "docs/buyer-persona.html#integration-des-jobs-to-be-done-ansatzes",
+    "href": "docs/buyer-persona.html#integration-des-jobs-to-be-done-ansatzes",
+    "title": "Buyer Persona",
+    "section": "4 Integration des Jobs-to-be-Done-Ansatzes",
+    "text": "4 Integration des Jobs-to-be-Done-Ansatzes\nDer JTBD-Ansatz ergänzt Buyer Personas, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele."
+  },
+  {
+    "objectID": "docs/buyer-persona.html#erstellung-von-buyer-personas-mit-jtbd",
+    "href": "docs/buyer-persona.html#erstellung-von-buyer-personas-mit-jtbd",
+    "title": "Buyer Persona",
+    "section": "5 Erstellung von Buyer Personas mit JTBD",
+    "text": "5 Erstellung von Buyer Personas mit JTBD\n\nRecherche: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.\nErmittlung der ‘Jobs’: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen ‘Jobs’ erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).).\nIntegration in die Persona-Beschreibung: Die identifizierten ‘Jobs’ werden in die Beschreibung der Buyer Persona integriert, um ein umfassenderes Bild der Käufer*innen zu erstellen.\nFokus auf Lösungen: Marketingbotschaften werden so gestaltet, dass sie genau auf die ‘Jobs’ zugeschnitten sind, die Käufer*innen erledigen möchten."
+  },
+  {
+    "objectID": "docs/buyer-persona.html#schlüsselelemente-einer-buyer-persona",
+    "href": "docs/buyer-persona.html#schlüsselelemente-einer-buyer-persona",
+    "title": "Buyer Persona",
+    "section": "6 Schlüsselelemente einer Buyer Persona",
+    "text": "6 Schlüsselelemente einer Buyer Persona\n\nHintergrund: Beruf, Karriereweg, Familiensituation.\nDemografische Daten: Geschlecht, Alter, Einkommen, Wohnort.\nIdentifikatoren: Verhaltensmuster, bevorzugte Kommunikationskanäle.\nZiele und Herausforderungen: Persönliche und berufliche Ambitionen (inklusive Jobs), Hindernisse.\nEchte Zitate: Direkte Aussagen von Kunden.\nHäufige Einwände: Typische Vorbehalte gegenüber Produkten/Dienstleistungen.\nMarketing-Botschaft: Positionierung der Marke oder des Produkts."
+  },
+  {
+    "objectID": "docs/buyer-persona.html#anwendungsbereiche",
+    "href": "docs/buyer-persona.html#anwendungsbereiche",
+    "title": "Buyer Persona",
+    "section": "7 Anwendungsbereiche",
+    "text": "7 Anwendungsbereiche\n\nMarketing: Erstellung zielgerichteter Kampagnen.\nVertrieb: Besseres Verständnis der Kundenbedürfnisse.\nProduktentwicklung: Anpassung an spezifische Kundenanforderungen."
+  },
+  {
+    "objectID": "docs/buyer-persona.html#vorteile",
+    "href": "docs/buyer-persona.html#vorteile",
+    "title": "Buyer Persona",
+    "section": "8 Vorteile",
+    "text": "8 Vorteile\n\nVerbessertes Verständnis der Kunden.\nEffektiveres und zielgerichtetes Marketing.\nSteigerung der Kundenzufriedenheit und -bindung.\n\nIm Marketing helfen Buyer-Personas den Marketingteams, ihre Marketingaktivitäten gezielt einzusetzen. Mithilfe von Buyer Personas weiß das Marketingteam, welche Art von Inhalten bei seiner Zielgruppe Anklang findet. So können sie sicherstellen, dass alle veröffentlichten Inhalte auf das abgestimmt sind, was die Kunden tatsächlich interessiert."
+  },
+  {
+    "objectID": "docs/buyer-persona.html#ressourcen",
+    "href": "docs/buyer-persona.html#ressourcen",
+    "title": "Buyer Persona",
+    "section": "9 Ressourcen",
+    "text": "9 Ressourcen\n\nMiro Buyer Persona-Template\nPPT-Template für die Erstellung von Buyer Personas\nBuyer Persona Tool von HubSpot"
+  },
+  {
+    "objectID": "docs/user-personas.html",
+    "href": "docs/user-personas.html",
+    "title": "User Persona",
     "section": "",
-    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird.\n\n\n\n\n\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑 Moodle\n\n\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑\n\n\n4\n08.11.\nGenerative AI & Teambesprechungen\n📚\n📑\n\n\n5\n15.11.\nBlue Ocean Strategy\n\n📑\n\n\n6\n22.11.\nNo lecture\n\n\n\n\n7\n29.11.\nWorkshop mit Amsterdam University of Applied Sciences\n\n📑 Moodle\n\n\n8\n06.12.\nDesign Thinking Workshop mit zoi\n📚\n📑 Moodle"
+    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss)."
+  },
+  {
+    "objectID": "docs/user-personas.html#was-ist-eine-user-persona",
+    "href": "docs/user-personas.html#was-ist-eine-user-persona",
+    "title": "User Persona",
+    "section": "",
+    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss)."
+  },
+  {
+    "objectID": "docs/user-personas.html#bedeutung-einer-detaillierten-user-persona",
+    "href": "docs/user-personas.html#bedeutung-einer-detaillierten-user-persona",
+    "title": "User Persona",
+    "section": "2 Bedeutung einer detaillierten User Persona",
+    "text": "2 Bedeutung einer detaillierten User Persona\nUser Personas sind entscheidend für die Gestaltung und Entwicklung von Produkten und Dienstleistungen. Sie helfen Unternehmen, ein tiefes Verständnis ihrer Zielnutzer/innen zu gewinnen und ihre Angebote auf die spezifischen Bedürfnisse und Vorlieben der Nutzer/innen zuzuschneiden, was das Nutzererlebnis verbessert und zum Erfolg der Produkte oder Dienstleistungen beiträgt."
+  },
+  {
+    "objectID": "docs/user-personas.html#integration-des-jobs-to-be-done-ansatzes",
+    "href": "docs/user-personas.html#integration-des-jobs-to-be-done-ansatzes",
+    "title": "User Persona",
+    "section": "3 Integration des Jobs-to-be-Done-Ansatzes",
+    "text": "3 Integration des Jobs-to-be-Done-Ansatzes\nDer JTBD-Ansatz ergänzt User Personas, indem er sich auf die spezifischen Aufgaben konzentriert, die Nutzer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele."
+  },
+  {
+    "objectID": "docs/user-personas.html#erstellung-von-user-personas-mit-jtbd",
+    "href": "docs/user-personas.html#erstellung-von-user-personas-mit-jtbd",
+    "title": "User Persona",
+    "section": "4 Erstellung von User Personas mit JTBD",
+    "text": "4 Erstellung von User Personas mit JTBD\n\nRecherche: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.\nErmittlung der ‘Jobs’: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen ‘Jobs’ erfasst, die Nutzer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).\nIntegration in die Persona-Beschreibung: Die identifizierten ‘Jobs’ werden in die Beschreibung der User Persona integriert, um ein umfassenderes Bild der Nutzer*innen zu erstellen.\nFokus auf Lösungen: Produkte und Dienstleistungen werden so gestaltet, dass sie genau auf die ‘Jobs’ zugeschnitten sind, die Nutzer*innen erledigen möchten."
+  },
+  {
+    "objectID": "docs/user-personas.html#vorteile-von-user-personas-mit-jtbd",
+    "href": "docs/user-personas.html#vorteile-von-user-personas-mit-jtbd",
+    "title": "User Persona",
+    "section": "5 Vorteile von User Personas mit JTBD",
+    "text": "5 Vorteile von User Personas mit JTBD\nDer Einsatz dieser Personas bietet mehrere Vorteile: - Verbesserte Entscheidungsfindung: Unternehmen können fundierte Entscheidungen treffen, die auf den Bedürfnissen und Vorlieben der Nutzerinnen basieren. - Effektives Produktdesign und -entwicklung: Teams verstehen die Bedürfnisse und Probleme der Nutzerinnen besser und können intuitive Schnittstellen und relevante Funktionen entwickeln. - Effektives Marketing und Kommunikation: Unternehmen können ihre Botschaften und Inhalte auf bestimmte Nutzergruppen zuschneiden."
+  },
+  {
+    "objectID": "docs/user-personas.html#inhalte-einer-user-persona",
+    "href": "docs/user-personas.html#inhalte-einer-user-persona",
+    "title": "User Persona",
+    "section": "6 Inhalte einer User Persona",
+    "text": "6 Inhalte einer User Persona\nEine umfassende User Persona-Beschreibung enthält in der Regel folgende Elemente:\n\nName und Hintergrund:\n\nName: Ein fiktiver Name, der die Persona repräsentiert.\nHintergrund: Eine kurze Geschichte, die den Lebenskontext der Persona beschreibt.\n\nDemografische Daten:\n\nAlter, Geschlecht, Beruf, Bildungsstand, geografischer Standort.\n\nPsychografische Daten:\n\nEinstellungen, Interessen, Werte, Lebensgewohnheiten.\n\nZiele und Motivationen:\n\nWas die Persona erreichen möchte und warum (inklusive der “Jobs”).\n\nBedürfnisse und Schmerzpunkte:\n\nSpezifische Bedürfnisse und Herausforderungen, die die Persona hat.\n\nVerhaltensweisen und Vorlieben:\n\nWie die Persona sich verhält und mit Produkten/Dienstleistungen interagiert.\n\n‘Jobs-to-be-Done’:\n\nDie spezifischen Aufgaben oder Probleme, die die Persona mit dem Produkt/Dienstleistung lösen möchte."
+  },
+  {
+    "objectID": "docs/user-personas.html#ressourcen",
+    "href": "docs/user-personas.html#ressourcen",
+    "title": "User Persona",
+    "section": "7 Ressourcen",
+    "text": "7 Ressourcen\n\nMiro User-Persona Template"
   },
   {
     "objectID": "syllabus.html",
@@ -68,5 +159,75 @@
     "title": "Syllabus",
     "section": "Notenschlüssel",
     "text": "Notenschlüssel\nDie Note für die erzielten Punkte wird auf der Grundlage der folgenden Schwellenwerte ermittelt:\n\n\n\nNote\nErreichte Prozent\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ideation und Entrepreneurship",
+    "section": "",
+    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird.\n\n\n\n\n\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑 Moodle\n\n\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑\n\n\n4\n08.11.\nGenerative AI & Teambesprechungen\n📚\n📑\n\n\n5\n15.11.\nBlue Ocean Strategy\n\n📑\n\n\n6\n22.11.\nNo lecture\n\n\n\n\n7\n29.11.\nWorkshop mit Amsterdam University of Applied Sciences\n\n📑 Moodle\n\n\n8\n06.12.\nDesign Thinking Workshop mit zoi\n📚\n📑 Moodle"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Kursübersicht",
+    "section": "",
+    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln."
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html",
+    "href": "docs/jobs-to-be-done.html",
+    "title": "Jobs to be Done",
+    "section": "",
+    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird."
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
+    "href": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
+    "title": "Jobs to be Done",
+    "section": "",
+    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird."
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
+    "href": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
+    "title": "Jobs to be Done",
+    "section": "2 Soziale, emotionale und funktionale Aspekte",
+    "text": "2 Soziale, emotionale und funktionale Aspekte\nDer Fokus auf den Kundenfortschritt im Rahmen von Jobs-to-be-Done bedeutet, alle Aspekte eines Produkts oder einer Dienstleistung zu berücksichtigen, die dazu beitragen, die Lebenssituation des Kunden zu verbessern. Dies umfasst nicht nur funktionale Aspekte, sondern auch soziale und emotionale Elemente.\n\nFunktionale Aspekte: Ein effizientes Haushaltsgerät (z.B. ein intelligenter Staubsauger) erleichtert nicht nur die Reinigung, sondern schafft auch mehr Freizeit für den Benutzer.\nEmotionale Aspekte: Ein Musikstreaming-Dienst bietet nicht nur Zugang zu Musik, sondern schafft auch emotionale Erlebnisse, indem er Erinnerungen weckt oder Entspannung fördert.\nSoziale Aspekte: Ein Smartphone ermöglicht nicht nur Kommunikation, sondern stärkt auch soziale Bindungen durch gemeinsame Erlebnisse, wie das Teilen von Fotos und Videos.\n\nIn der Produktentwicklung ist es wichtig, diese Aspekte zu verstehen und zu berücksichtigen, um Produkte zu schaffen, die einen echten Fortschritt im Leben der Kunden ermöglichen."
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
+    "href": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
+    "title": "Jobs to be Done",
+    "section": "3 Anwendung des JTBD-Ansatzes",
+    "text": "3 Anwendung des JTBD-Ansatzes\n\nErforschung der Kundenbedürfnisse: Tiefgehendes Verständnis des Kunden und seines Kontextes.\nEntwicklung und Innovation: Schaffung von Produkten, die echten Fortschritt für den Kunden ermöglichen.\nFokus auf den Kundenfortschritt: Berücksichtigung von sozialen, emotionalen und funktionalen Aspekten bei der Produktentwicklung.\n\nWas ist der “Job” eines McDonald’s-Milchshakes? Das fragte sich der Harvard Business School-Professor und Experte für disruptive Innovationen Clayton Christensen, als McDonald’s an ihn herantrat, um seine Milchshake-Produktlinie zu erneuern. Durch die Aufdeckung der Aufgaben, die ein McDonald’s-Milchshake zu erfüllen hat, erkannte das Unternehmen, dass der Markt für Milchshakes siebenmal größer ist, als es gedacht hatte:"
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#ressourcen",
+    "href": "docs/jobs-to-be-done.html#ressourcen",
+    "title": "Jobs to be Done",
+    "section": "4 Ressourcen",
+    "text": "4 Ressourcen\n\nDas Jobs-to-be-Done-Template von Miro kann dabei helfen festzuhalten, wie und warum die Kunden ein Produkt nutzen und kaufen."
   }
 ]
