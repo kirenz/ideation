@@ -35,6 +35,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 5. **Präsentation (am 31.01.24)**:
    - Vorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).
    - Die Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.
+   - Bitte erstellen Sie die Präsentation in [Miro](https://miro.com/de/templates/praesentation/), in [Google Slides](https://www.google.com/slides/about/) mit [Canvas](https://www.canva.com/) oder PowerPoint. 
 
 
 ## Bewertungsraster
