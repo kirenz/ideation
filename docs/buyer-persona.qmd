@@ -16,7 +16,7 @@ Eine **Buyer Persona** ist eine semi-fiktive Darstellung des idealen Kunden, bas
 
 ## Unterschied zu User Personas
 
-- [User Personas](/user-personas.qmd) repräsentieren Nutzer eines Produkts oder Services, fokussieren auf Nutzerverhalten und -erfahrungen.
+- [User Personas](docs/user-personas.qmd) repräsentieren Nutzer eines Produkts oder Services, fokussieren auf Nutzerverhalten und -erfahrungen.
 
 - Buyer Personas sind für Marketing und Vertrieb relevant, während User Personas für Produktentwicklung und Design genutzt werden.
 
