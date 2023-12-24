@@ -59,7 +59,10 @@ website:
             text: User Persona
           - href: docs/buyer-persona.qmd
             text: Buyer Persona  
-
+          - href: docs/value-proposition.qmd
+            text: Value Proposition Canvas
+          - href: docs/business-model-canvas.qmd
+            text: Business Model Canvas
 format:
   html:
     toc: true
