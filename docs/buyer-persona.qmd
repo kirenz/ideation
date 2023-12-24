@@ -67,3 +67,7 @@ Im Marketing helfen Buyer-Personas den Marketingteams, ihre Marketingaktivitäte
 - [PPT-Template für die Erstellung von Buyer Personas](https://docs.google.com/presentation/d/1dEyL_jVAl2meREQHJdn38u8PJD-26G7gjFbWXT0Abco/edit?usp=sharing)
 
 - [Buyer Persona Tool von HubSpot](https://www.hubspot.de/make-my-persona)
+
+## Nächste Schritte
+
+Nachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) mit dem Wertangebot eines Unternehmens abgeglichen werden. 
