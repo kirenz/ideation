@@ -1,0 +1,93 @@
+---
+title: "Business Model Canvas"
+number-sections: true
+---
+
+## Grundlagen
+
+Der Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ihr Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. 
+
+Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Der BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren. 
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QoAOzMTLP5s?si=fuSWYBSFScjd0JDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+Dieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten. 
+
+In einer sich schnell verändernden Geschäftswelt bietet der Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.
+
+
+## 9 Felder des Business Model Canvas
+
+Erklärung des Business Model Canvas anhand eines fiktiven Unternehmens, "GreenCycle", ein Startup, das sich auf die Herstellung und den Verkauf nachhaltiger Fahrräder konzentriert, durchgehen.
+
+### Kundensegmente
+- **Erklärung:** Die verschiedenen Gruppen von Personen oder Organisationen, die das Unternehmen bedient.
+- **Beispiel für GreenCycle:** Umweltbewusste Verbraucher, urbane Pendler, Fahrradenthusiasten.
+- **Wichtige Fragen:**
+  - Für wen schaffen wir Wert?
+  - Wer sind unsere wichtigsten Kunden?
+
+
+### Wertangebote
+- **Erklärung:** Das Produkt oder die Dienstleistung, die das Unternehmen seinen Kunden anbietet.
+- **Beispiel für GreenCycle:** Nachhaltig hergestellte Fahrräder, die umweltfreundlich und langlebig sind.
+- **Wichtige Fragen:**
+  - Welchen Wert bieten wir unseren Kunden?
+  - Was unterscheidet unser Angebot von der Konkurrenz?
+
+### Kundenbeziehungen
+- **Erklärung:** Die Art der Beziehung, die ein Unternehmen mit seinen Kunden aufbaut und pflegt.
+- **Beispiel für GreenCycle:** Persönlicher Kundenservice, Community-Building durch soziale Medien, Kunden-Feedback-Programme.
+- **Wichtige Fragen:**
+  - Wie interagieren wir mit unseren Kunden?
+  - Wie verbessern und erhalten wir Kundenbeziehungen?
+
+### Kanäle
+- **Erklärung:** Die Mittel, durch die das Unternehmen seine Kunden erreicht und mit ihnen interagiert.
+- **Beispiel für GreenCycle:** Online-Shop, physische Fahrradgeschäfte, soziale Medien.
+- **Wichtige Fragen:**
+  - Über welche Kanäle erreichen wir unsere Kunden am effektivsten?
+  - Wie sind unsere Vertriebs- und Kommunikationskanäle integriert?
+
+### Schlüsselressourcen
+- **Erklärung:** Die Ressourcen, die für das Funktionieren des Geschäftsmodells notwendig sind.
+- **Beispiel für GreenCycle:** Fachwissen in nachhaltiger Produktion, hochwertige Materialien, qualifiziertes Personal.
+- **Wichtige Fragen:**
+  - Welche Ressourcen sind für unser Geschäft kritisch?
+  - Haben wir Zugang zu diesen Ressourcen?
+
+### Schlüsselaktivitäten
+- **Erklärung:** Die wichtigsten Aktivitäten, die erforderlich sind, um das Geschäftsmodell umzusetzen.
+- **Beispiel für GreenCycle:** Entwicklung umweltfreundlicher Fahrräder, Marketingaktivitäten, Kundenservice.
+- **Wichtige Fragen:**
+  - Was sind die wichtigsten Dinge, die wir tun müssen, um erfolgreich zu sein?
+  - Wie erreichen wir unsere Kunden?
+
+### Schlüsselpartner
+- **Erklärung:** Identifiziert die externen Organisationen, Lieferanten und Partner, die für den Erfolg des Unternehmens wesentlich sind.
+- **Beispiel für GreenCycle:** Partnerschaften mit Lieferanten für nachhaltige Materialien, lokale Fahrradgeschäfte für den Vertrieb.
+- **Wichtige Fragen:**
+  - Wer sind unsere Schlüssellieferanten?
+  - Welche Partnerschaften sind für uns entscheidend?
+
+### Einnahmequellen
+- **Erklärung:** Die Art und Weise, wie das Unternehmen Geld verdient.
+- **Beispiel für GreenCycle:** Verkauf von Fahrrädern, Zubehörverkäufe, möglicherweise Serviceangebote.
+- **Wichtige Fragen:**
+  - Für welche Werte sind unsere Kunden bereit zu zahlen?
+  - Wie zahlen unsere Kunden?
+  - Welche Bezahloptionen werden bereitgestellt (Abo, ...)?
+
+### Kostenstruktur
+- **Erklärung:** Die wichtigsten monetären Kosten, die beim Betrieb des Geschäftsmodells anfallen.
+- **Beispiel für GreenCycle:** Produktionskosten, Marketingausgaben, Mitarbeitergehälter.
+- **Wichtige Fragen:**
+  - Was sind die größten Kosten in unserem Geschäftsmodell?
+  - Welche Schlüsselressourcen und -aktivitäten sind am teuersten?
+
+## Ressourcen
+
+- [Miro Business Model Canvas Template](https://miro.com/de/templates/business-model-canvas/)
