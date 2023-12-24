@@ -1,6 +1,6 @@
 ---
 title: "Value Proposition Canvas"
-number-sections: true
+number-sections: false
 ---
 
 ## Einleitung
