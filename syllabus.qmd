@@ -22,7 +22,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 
 2. **Anwendung von Entrepreneurship-Frameworks**:
    - Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
-   - Erstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Personas) zur Erklärung des eigenen Geschäftsmodells.
+   - Erstellung des Business Model Canvas und [Value Proposition Canvas](/docs/value-proposition.qmd) (inklusive [User Persona](/docs/user-persona.qmd) oder [Buyer Persona](/docs/buyer-persona.qmd)) zur Erklärung des eigenen Geschäftsmodells.
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
