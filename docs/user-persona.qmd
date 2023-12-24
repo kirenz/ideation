@@ -1,6 +1,6 @@
 ---
 title: "User Persona"
-number-sections: true
+number-sections: false
 ---
 
 ## Was ist eine User Persona?
