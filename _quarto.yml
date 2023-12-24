@@ -51,7 +51,7 @@ website:
             text: Syllabus
           - href: index.qmd
             text: Schedule
-      - section: "Ressources"
+      - section: "Unterlagen"
         contents:
           - href: docs/jobs-to-be-done.qmd
             text: Jobs to be Done
