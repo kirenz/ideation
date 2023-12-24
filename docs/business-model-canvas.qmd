@@ -1,6 +1,6 @@
 ---
 title: "Business Model Canvas"
-number-sections: true
+number-sections: false
 ---
 
 ## Grundlagen
