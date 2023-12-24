@@ -9,7 +9,7 @@ Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutz
 
 User Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.
 
-Eine [Buyer Persona](/buyer-persona.qmd) ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss).
+Eine [Buyer Persona](docs/buyer-persona.qmd) ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss).
 
 ## Bedeutung einer detaillierten User Persona
 
