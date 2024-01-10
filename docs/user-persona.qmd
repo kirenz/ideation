@@ -9,7 +9,7 @@ Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutz
 
 User Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.
 
-Eine [Buyer Persona](docs/buyer-persona.qmd) ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss).
+Eine [Buyer Persona](docs/buyer-persona.qmd) ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Nutzer des Produkts sein muss).
 
 ## Bedeutung einer detaillierten User Persona
 
@@ -30,12 +30,12 @@ Der [JTBD-Ansatz](/jobs-to-be-done.qmd) ergänzt User Personas, indem er sich au
 
 Der Einsatz dieser Personas bietet mehrere Vorteile:
 - **Verbesserte Entscheidungsfindung**: Unternehmen können fundierte Entscheidungen treffen, die auf den Bedürfnissen und Vorlieben der Nutzer*innen basieren.
-- **Effektives Produktdesign und -entwicklung**: Teams verstehen die Bedürfnisse und Probleme der Nutzer*innen besser und können intuitive Schnittstellen und relevante Funktionen entwickeln.
+- **Effektives Produktdesign und -entwicklung**: Teams verstehen die Bedürfnisse und Probleme der Nutzer*innen besser und können passende Produkte und relevante Funktionen entwickeln.
 - **Effektives Marketing und Kommunikation**: Unternehmen können ihre Botschaften und Inhalte auf bestimmte Nutzergruppen zuschneiden.
 
 ## Inhalte einer User Persona
 
-Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Elemente:
+Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Elemente (dies ist lediglich ein Vorschlag - Sie können die Inhalte anpassen):
 
 1. **Name und Hintergrund**: 
    - **Name**: Ein fiktiver Name, der die Persona repräsentiert.
@@ -44,14 +44,13 @@ Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Element
    - Alter, Geschlecht, Beruf, Bildungsstand, geografischer Standort.
 3. **Psychografische Daten**: 
    - Einstellungen, Interessen, Werte, Lebensgewohnheiten.
-4. **Ziele und Motivationen**: 
-   - Was die Persona erreichen möchte und warum (inklusive der "Jobs").
+4. **Jobs (Jobs-to-be-Done)**: 
+   - Die spezifischen Aufgaben oder Probleme, die die Persona mit dem Produkt/Dienstleistung lösen möchte. Welche Ziele sollen erreicht werden (rational, emotional und sozial)?
 5. **Bedürfnisse und Schmerzpunkte**: 
-   - Spezifische Bedürfnisse und Herausforderungen, die die Persona hat.
+   - Welche konkreten Bedürfnisse (rational, emotional und sozial) und Schmerzpunkte hat die Persona? 
 6. **Verhaltensweisen und Vorlieben**: 
    - Wie die Persona sich verhält und mit Produkten/Dienstleistungen interagiert.
-7. **'Jobs-to-be-Done'**: 
-   - Die spezifischen Aufgaben oder Probleme, die die Persona mit dem Produkt/Dienstleistung lösen möchte.
+
 
 ## Ressourcen
 
@@ -59,4 +58,4 @@ Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Element
 
 ## Nächste Schritte
 
-Nachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) mit dem Wertangebot eines Unternehmens abgeglichen werden. 
+Nachdem die Persona erstellt wurde, können die Bedürfnisse der Persona mit Hilfe der Wertkarte (Value Map) eines Unternehmens innerhalb des [Value Proposition Canvas](/docs/value-proposition.qmd) abgeglichen werden. 
