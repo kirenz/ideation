@@ -24,12 +24,12 @@ Während beide Personas ähnliche Konzepte sind, unterscheiden sie sich in ihrem
 
 ## Integration des Jobs-to-be-Done-Ansatzes
 
-Der [JTBD-Ansatz](/jobs-to-be-done.qmd) ergänzt Buyer Personas, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele.
+Der [JTBD-Ansatz](/jobs-to-be-done.qmd) kann in Buyer Personas integriert werden, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele.
 
 ## Erstellung von Buyer Personas mit JTBD
 
 1. **Recherche**: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.
-2. **Ermittlung der 'Jobs'**: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen 'Jobs' erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).).
+2. **Ermittlung der 'Jobs'**: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen 'Jobs' erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).
 3. **Integration in die Persona-Beschreibung**: Die identifizierten 'Jobs' werden in die Beschreibung der Buyer Persona integriert, um ein umfassenderes Bild der Käufer*innen zu erstellen.
 4. **Fokus auf Lösungen**: Marketingbotschaften werden so gestaltet, dass sie genau auf die 'Jobs' zugeschnitten sind, die Käufer*innen erledigen möchten.
 
@@ -70,4 +70,4 @@ Im Marketing helfen Buyer-Personas den Marketingteams, ihre Marketingaktivitäte
 
 ## Nächste Schritte
 
-Nachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) mit dem Wertangebot eines Unternehmens abgeglichen werden. 
+Nachdem die Persona erstellt wurde, können die Bedürfnisse dieser Persona mit  der Wertkarte (Value Map) eines Unternehmens mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) abgeglichen werden. 
