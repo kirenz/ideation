@@ -21,8 +21,10 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    - Generierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des [Design-Thinking Prozesses](https://miro.com/de/research-und-design/was-ist-design-thinking/)).
 
 2. **Anwendung von Entrepreneurship-Frameworks**:
+   
    - Anwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.
-   - Erstellung des [Business Model Canvas](/docs/business-model-canvas.qmd) und [Value Proposition Canvas](/docs/value-proposition.qmd) (inklusive [User Persona](/docs/user-persona.qmd) oder [Buyer Persona](/docs/buyer-persona.qmd)) zur Erklärung des eigenen Geschäftsmodells. Vorgehensweise: 
+
+   - Erstellung des [Business Model Canvas](/docs/business-model-canvas.qmd) und [Value Proposition Canvas](/docs/value-proposition.qmd) (inklusive [User Persona](/docs/user-persona.qmd) oder [Buyer Persona](/docs/buyer-persona.qmd)) zur Erklärung des eigenen Geschäftsmodells. Mögliche Vorgehensweise: 
    
    - 1) [Jobs-to-be-Done Framework](/docs/jobs-to-be-done.qmd) in Kombination mit Kundenprofil-Ansatz des [Value Proposition Canvas](/docs/value-proposition.qmd) 
    
