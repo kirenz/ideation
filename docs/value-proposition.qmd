@@ -10,7 +10,7 @@ Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-De
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ReM1uqmVfP0?si=JTsaqJfNlw8UFos5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Die Verwendung des Konzepts bietet sich besonders im Anschluss an die Erstellung von [User Personas](/docs/user-persona.qmd) und/oder [Buyer Personas](/docs/buyer-persona.qmd) an, da in den Personas bereits die notwendigen Informationen für die Erstellung des Kundensegment-Profils (Customer Profile) enthalten sind.
+Die Verwendung des Konzepts bietet sich besonders als erster Schritt für die Erstellung von [User Personas](/docs/user-persona.qmd) und/oder [Buyer Personas](/docs/buyer-persona.qmd) an, da in den Kundensegment-Profilen (Customer Profile) wichtige Ziele und Bederfünisse der Customer herausgearbeitet werden können.  
 
 ## Kundensegment-Profil
 
@@ -42,7 +42,11 @@ Customer Gains:
 
 - **Erwünschte Gewinne**: Vorteile, die über die Erwartungen hinausgehen und vom Kunden sehr geschätzt werden.
 
+
 ## Wertkarte (Value Map)
+
+Es empfiehlt sich, vor der Erstellung der Wertkarte zunächst die [User Personas](/docs/user-persona.qmd) und/oder [Buyer Personas](/docs/buyer-persona.qmd) zu erstellen, da sich daruch nochmals hilfreiche Ansatzpunkte für die Herausarbeitung von relevanten Produkteigenschaften ergeben können. 
+
 
 ### Produkte und Dienstleistungen
 
@@ -62,10 +66,12 @@ Customer Gains:
 
 ## Ressourcen
 
+- [Value Proposition Design Book Chapter](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek)
+
 - [Miro Customer Value Proposition Map](https://miro.com/miroverse/customer-value-proposition-map/)
 
-- [Value Proposition Design Book Chapter](https://issuu.com/business.model.innovation/docs/vpd_sneakpeek)
+- Das [Jobs-to-be-Done-Template](https://miro.com/de/templates/jobs-to-be-done/) von Miro kann dabei helfen festzuhalten, wie und warum die Kunden ein Produkt  nutzen und kaufen.
 
 ## Nächste Schritte
 
-Nach das Value Proposition Canvas erstellt wurde, kann das [Business Model Canvas](/docs/business-model-canvas.qmd) definiert werden.
+Nachdem das Value Proposition Canvas erstellt wurde, kann das [Business Model Canvas](/docs/business-model-canvas.qmd) definiert werden.
