@@ -32,14 +32,14 @@
     "href": "docs/buyer-persona.html#integration-des-jobs-to-be-done-ansatzes",
     "title": "Buyer Persona",
     "section": "Integration des Jobs-to-be-Done-Ansatzes",
-    "text": "Integration des Jobs-to-be-Done-Ansatzes\nDer JTBD-Ansatz ergänzt Buyer Personas, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele."
+    "text": "Integration des Jobs-to-be-Done-Ansatzes\nDer JTBD-Ansatz kann in Buyer Personas integriert werden, indem er sich auf die spezifischen Aufgaben konzentriert, die Käufer/innen erledigen möchten, und bietet tiefere Einblicke in ihre wahren Bedürfnisse und Ziele."
   },
   {
     "objectID": "docs/buyer-persona.html#erstellung-von-buyer-personas-mit-jtbd",
     "href": "docs/buyer-persona.html#erstellung-von-buyer-personas-mit-jtbd",
     "title": "Buyer Persona",
     "section": "Erstellung von Buyer Personas mit JTBD",
-    "text": "Erstellung von Buyer Personas mit JTBD\n\nRecherche: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.\nErmittlung der ‘Jobs’: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen ‘Jobs’ erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).).\nIntegration in die Persona-Beschreibung: Die identifizierten ‘Jobs’ werden in die Beschreibung der Buyer Persona integriert, um ein umfassenderes Bild der Käufer*innen zu erstellen.\nFokus auf Lösungen: Marketingbotschaften werden so gestaltet, dass sie genau auf die ‘Jobs’ zugeschnitten sind, die Käufer*innen erledigen möchten."
+    "text": "Erstellung von Buyer Personas mit JTBD\n\nRecherche: Um genaue Personas zu erstellen, werden Umfragen, Interviews und Datenanalysen genutzt, um demografische Daten, Vorlieben, Verhalten und Motivationen zu sammeln.\nErmittlung der ‘Jobs’: Zusätzlich zu demografischen und psychografischen Daten werden die spezifischen ‘Jobs’ erfasst, die Käufer*innen mit dem Produkt oder der Dienstleistung erledigen wollen (dabei sollten funktionale, emotionale und soziale Nutzenkomponenten berücksichtigt werden).\nIntegration in die Persona-Beschreibung: Die identifizierten ‘Jobs’ werden in die Beschreibung der Buyer Persona integriert, um ein umfassenderes Bild der Käufer*innen zu erstellen.\nFokus auf Lösungen: Marketingbotschaften werden so gestaltet, dass sie genau auf die ‘Jobs’ zugeschnitten sind, die Käufer*innen erledigen möchten."
   },
   {
     "objectID": "docs/buyer-persona.html#schlüsselelemente-einer-buyer-persona",
@@ -74,7 +74,7 @@
     "href": "docs/buyer-persona.html#nächste-schritte",
     "title": "Buyer Persona",
     "section": "Nächste Schritte",
-    "text": "Nächste Schritte\nNachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des Value Proposition Canvas mit dem Wertangebot eines Unternehmens abgeglichen werden."
+    "text": "Nächste Schritte\nNachdem die Persona erstellt wurde, können die Bedürfnisse dieser Persona mit der Wertkarte (Value Map) eines Unternehmens mit Hilfe des Value Proposition Canvas abgeglichen werden."
   },
   {
     "objectID": "docs/jobs-to-be-done.html",
@@ -109,21 +109,21 @@
     "href": "docs/jobs-to-be-done.html#ressourcen",
     "title": "Jobs to be Done",
     "section": "Ressourcen",
-    "text": "Ressourcen\n\nDas Jobs-to-be-Done-Template von Miro kann dabei helfen festzuhalten, wie und warum die Kunden ein Produkt nutzen und kaufen."
+    "text": "Ressourcen\n\nDie Jobs und Bedürfnisse/Schmerzpunbkte der Kunden können mit Hilfe des Kundensegment-Profils des Value Proposition Canvas ermittelt werden."
   },
   {
     "objectID": "docs/user-persona.html",
     "href": "docs/user-persona.html",
     "title": "User Persona",
     "section": "",
-    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss)."
+    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Nutzer des Produkts sein muss)."
   },
   {
     "objectID": "docs/user-persona.html#was-ist-eine-user-persona",
     "href": "docs/user-persona.html#was-ist-eine-user-persona",
     "title": "User Persona",
     "section": "",
-    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Netzer des Produkts sein muss)."
+    "text": "Eine User Persona ist eine fiktive Darstellung eines idealen oder typischen Nutzers eines Produkts, einer Dienstleistung oder einer Website. Sie basiert auf Untersuchungen und Analysen von Nutzerdaten und ermöglicht es Unternehmen und Designern, ihre Zielgruppe besser zu verstehen.\nUser Personas enthalten Informationen über Demografie, Motivation, Bedürfnisse, Ziele und Verhalten der Nutzer*innen und liefern wertvolle Erkenntnisse für die Entscheidungsfindung und Produktentwicklung.\nEine Buyer Persona ist dagegen eine semi-fiktive Darstellung des kaufenden Kunden (welcher nicht zwingend auch Nutzer des Produkts sein muss)."
   },
   {
     "objectID": "docs/user-persona.html#bedeutung-einer-detaillierten-user-persona",
@@ -151,14 +151,14 @@
     "href": "docs/user-persona.html#vorteile-von-user-personas-mit-jtbd",
     "title": "User Persona",
     "section": "Vorteile von User Personas mit JTBD",
-    "text": "Vorteile von User Personas mit JTBD\nDer Einsatz dieser Personas bietet mehrere Vorteile: - Verbesserte Entscheidungsfindung: Unternehmen können fundierte Entscheidungen treffen, die auf den Bedürfnissen und Vorlieben der Nutzerinnen basieren. - Effektives Produktdesign und -entwicklung: Teams verstehen die Bedürfnisse und Probleme der Nutzerinnen besser und können intuitive Schnittstellen und relevante Funktionen entwickeln. - Effektives Marketing und Kommunikation: Unternehmen können ihre Botschaften und Inhalte auf bestimmte Nutzergruppen zuschneiden."
+    "text": "Vorteile von User Personas mit JTBD\nDer Einsatz dieser Personas bietet mehrere Vorteile: - Verbesserte Entscheidungsfindung: Unternehmen können fundierte Entscheidungen treffen, die auf den Bedürfnissen und Vorlieben der Nutzerinnen basieren. - Effektives Produktdesign und -entwicklung: Teams verstehen die Bedürfnisse und Probleme der Nutzerinnen besser und können passende Produkte und relevante Funktionen entwickeln. - Effektives Marketing und Kommunikation: Unternehmen können ihre Botschaften und Inhalte auf bestimmte Nutzergruppen zuschneiden."
   },
   {
     "objectID": "docs/user-persona.html#inhalte-einer-user-persona",
     "href": "docs/user-persona.html#inhalte-einer-user-persona",
     "title": "User Persona",
     "section": "Inhalte einer User Persona",
-    "text": "Inhalte einer User Persona\nEine umfassende User Persona-Beschreibung enthält in der Regel folgende Elemente:\n\nName und Hintergrund:\n\nName: Ein fiktiver Name, der die Persona repräsentiert.\nHintergrund: Eine kurze Geschichte, die den Lebenskontext der Persona beschreibt.\n\nDemografische Daten:\n\nAlter, Geschlecht, Beruf, Bildungsstand, geografischer Standort.\n\nPsychografische Daten:\n\nEinstellungen, Interessen, Werte, Lebensgewohnheiten.\n\nZiele und Motivationen:\n\nWas die Persona erreichen möchte und warum (inklusive der “Jobs”).\n\nBedürfnisse und Schmerzpunkte:\n\nSpezifische Bedürfnisse und Herausforderungen, die die Persona hat.\n\nVerhaltensweisen und Vorlieben:\n\nWie die Persona sich verhält und mit Produkten/Dienstleistungen interagiert.\n\n‘Jobs-to-be-Done’:\n\nDie spezifischen Aufgaben oder Probleme, die die Persona mit dem Produkt/Dienstleistung lösen möchte."
+    "text": "Inhalte einer User Persona\nEine umfassende User Persona-Beschreibung enthält in der Regel folgende Elemente (dies ist lediglich ein Vorschlag - Sie können die Inhalte anpassen):\n\nName und Hintergrund:\n\nName: Ein fiktiver Name, der die Persona repräsentiert.\nHintergrund: Eine kurze Geschichte, die den Lebenskontext der Persona beschreibt.\n\nDemografische Daten:\n\nAlter, Geschlecht, Beruf, Bildungsstand, geografischer Standort.\n\nPsychografische Daten:\n\nEinstellungen, Interessen, Werte, Lebensgewohnheiten.\n\nJobs (Jobs-to-be-Done):\n\nDie spezifischen Aufgaben oder Probleme, die die Persona mit dem Produkt/Dienstleistung lösen möchte. Welche Ziele sollen erreicht werden (rational, emotional und sozial)?\n\nBedürfnisse und Schmerzpunkte:\n\nWelche konkreten Bedürfnisse (rational, emotional und sozial) und Schmerzpunkte hat die Persona?\n\nVerhaltensweisen und Vorlieben:\n\nWie die Persona sich verhält und mit Produkten/Dienstleistungen interagiert."
   },
   {
     "objectID": "docs/user-persona.html#ressourcen",
@@ -172,7 +172,7 @@
     "href": "docs/user-persona.html#nächste-schritte",
     "title": "User Persona",
     "section": "Nächste Schritte",
-    "text": "Nächste Schritte\nNachdem die Persona erstellt wurde, können die Bedürfnisse der Kunden mit Hilfe des Value Proposition Canvas mit dem Wertangebot eines Unternehmens abgeglichen werden."
+    "text": "Nächste Schritte\nNachdem die Persona erstellt wurde, können die Bedürfnisse der Persona mit Hilfe der Wertkarte (Value Map) eines Unternehmens innerhalb des Value Proposition Canvas abgeglichen werden."
   },
   {
     "objectID": "syllabus.html",
@@ -193,7 +193,7 @@
     "href": "syllabus.html#lernziele-und-prüfungsleistung",
     "title": "Syllabus",
     "section": "Lernziele und Prüfungsleistung",
-    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Vorgehensweise: 1) Erstellung Persona, 2) Erstellung Value Proposition, 3) Erstellung Business Model Canvas.\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint."
+    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Vorgehensweise:\n\nJobs-to-be-Done Framework in Kombination mit Kundenprofil-Ansatz des Value Propsition Canvas\n\n\nErstellung User Persona oder Buyer Persona\n\n\nDefinition des Wertangebots (Value Map) mit Hilfe des Value Propsition Canvas\n\n\nErstellung Business Model Canvas.\n\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint."
   },
   {
     "objectID": "syllabus.html#bewertungsraster",
@@ -249,14 +249,14 @@
     "href": "docs/value-proposition.html",
     "title": "Value Proposition Canvas",
     "section": "",
-    "text": "Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-Design. Es hilft, das Angebot eines Unternehmens (die “Value Map”) auf die Bedürfnisse und Wünsche eines spezifischen Kundensegments abzustimmen.\n\n\nDie Verwendung des Konzepts bietet sich besonders im Anschluss an die Erstellung von User Personas und/oder Buyer Personas an, da in den Personas bereits die notwendigen Informationen für die Erstellung des Kundensegment-Profils (Customer Profile) enthalten sind."
+    "text": "Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-Design. Es hilft, das Angebot eines Unternehmens (die “Value Map”) auf die Bedürfnisse und Wünsche eines spezifischen Kundensegments abzustimmen.\n\n\nDie Verwendung des Konzepts bietet sich besonders als erster Schritt für die Erstellung von User Personas und/oder Buyer Personas an, da in den Kundensegment-Profilen (Customer Profile) wichtige Ziele und Bederfünisse der Customer herausgearbeitet werden können."
   },
   {
     "objectID": "docs/value-proposition.html#einleitung",
     "href": "docs/value-proposition.html#einleitung",
     "title": "Value Proposition Canvas",
     "section": "",
-    "text": "Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-Design. Es hilft, das Angebot eines Unternehmens (die “Value Map”) auf die Bedürfnisse und Wünsche eines spezifischen Kundensegments abzustimmen.\n\n\nDie Verwendung des Konzepts bietet sich besonders im Anschluss an die Erstellung von User Personas und/oder Buyer Personas an, da in den Personas bereits die notwendigen Informationen für die Erstellung des Kundensegment-Profils (Customer Profile) enthalten sind."
+    "text": "Das Value Proposition Canvas ist ein hilfreiches Werkzeug im Geschäftsmodell-Design. Es hilft, das Angebot eines Unternehmens (die “Value Map”) auf die Bedürfnisse und Wünsche eines spezifischen Kundensegments abzustimmen.\n\n\nDie Verwendung des Konzepts bietet sich besonders als erster Schritt für die Erstellung von User Personas und/oder Buyer Personas an, da in den Kundensegment-Profilen (Customer Profile) wichtige Ziele und Bederfünisse der Customer herausgearbeitet werden können."
   },
   {
     "objectID": "docs/value-proposition.html#kundensegment-profil",
@@ -270,21 +270,21 @@
     "href": "docs/value-proposition.html#wertkarte-value-map",
     "title": "Value Proposition Canvas",
     "section": "Wertkarte (Value Map)",
-    "text": "Wertkarte (Value Map)\n\nProdukte und Dienstleistungen\n\nAngebot: Eine Auflistung aller Produkte und Dienstleistungen, die die Kunden bei der Erfüllung ihrer funktionalen, sozialen oder emotionalen Aufgaben unterstützen.\n\n\n\nSchmerzpunkte-Linderer (Pain Relievers)\n\nLösung von Problemen: Konkrete Maßnahmen, wie Produkte und Dienstleistungen die funktionalen, sozialen und emotionalen Schmerzpunkte der Kunden lindern.\nVermeidung negativer Erfahrungen: Strategien zur Vermeidung von Frustrationen, Stress oder negativen sozialen Konsequenzen.\nRisikoreduzierung: Wege, wie das Risiko für den Kunden in Bezug auf finanzielle Verluste, Vertrauensbrüche oder technische Probleme minimiert wird.\n\n\n\nNutzen-Schaffer (Gain Creators)\n\nErwartungsübertriffung: Beschreibt, wie Produkte und Dienstleistungen über die grundlegenden Erwartungen des Kunden hinausgehen und Zusatznutzen schaffen.\nSteigerung der Kundenzufriedenheit: Methoden, um positive emotionale und soziale Ergebnisse zu erzielen, die den Kunden begeistern.\nLeistungssteigerung: Darstellung, wie das Angebot die Leistung oder Effizienz des Kunden verbessern kann."
+    "text": "Wertkarte (Value Map)\nEs empfiehlt sich, vor der Erstellung der Wertkarte zunächst die User Personas und/oder Buyer Personas zu erstellen, da sich daruch nochmals hilfreiche Ansatzpunkte für die Herausarbeitung von relevanten Produkteigenschaften ergeben können.\n\nProdukte und Dienstleistungen\n\nAngebot: Eine Auflistung aller Produkte und Dienstleistungen, die die Kunden bei der Erfüllung ihrer funktionalen, sozialen oder emotionalen Aufgaben unterstützen.\n\n\n\nSchmerzpunkte-Linderer (Pain Relievers)\n\nLösung von Problemen: Konkrete Maßnahmen, wie Produkte und Dienstleistungen die funktionalen, sozialen und emotionalen Schmerzpunkte der Kunden lindern.\nVermeidung negativer Erfahrungen: Strategien zur Vermeidung von Frustrationen, Stress oder negativen sozialen Konsequenzen.\nRisikoreduzierung: Wege, wie das Risiko für den Kunden in Bezug auf finanzielle Verluste, Vertrauensbrüche oder technische Probleme minimiert wird.\n\n\n\nNutzen-Schaffer (Gain Creators)\n\nErwartungsübertriffung: Beschreibt, wie Produkte und Dienstleistungen über die grundlegenden Erwartungen des Kunden hinausgehen und Zusatznutzen schaffen.\nSteigerung der Kundenzufriedenheit: Methoden, um positive emotionale und soziale Ergebnisse zu erzielen, die den Kunden begeistern.\nLeistungssteigerung: Darstellung, wie das Angebot die Leistung oder Effizienz des Kunden verbessern kann."
   },
   {
     "objectID": "docs/value-proposition.html#ressourcen",
     "href": "docs/value-proposition.html#ressourcen",
     "title": "Value Proposition Canvas",
     "section": "Ressourcen",
-    "text": "Ressourcen\n\nMiro Customer Value Proposition Map\nValue Proposition Design Book Chapter"
+    "text": "Ressourcen\n\nValue Proposition Design Book Chapter\nMiro Customer Value Proposition Map\nDas Jobs-to-be-Done-Template von Miro kann dabei helfen festzuhalten, wie und warum die Kunden ein Produkt nutzen und kaufen."
   },
   {
     "objectID": "docs/value-proposition.html#nächste-schritte",
     "href": "docs/value-proposition.html#nächste-schritte",
     "title": "Value Proposition Canvas",
     "section": "Nächste Schritte",
-    "text": "Nächste Schritte\nNach das Value Proposition Canvas erstellt wurde, kann das Business Model Canvas definiert werden."
+    "text": "Nächste Schritte\nNachdem das Value Proposition Canvas erstellt wurde, kann das Business Model Canvas definiert werden."
   },
   {
     "objectID": "docs/business-model-canvas.html",
