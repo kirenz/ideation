@@ -30,7 +30,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
    
    - 3) Definition des Wertangebots (Value Map) mit Hilfe des [Value Propsition Canvas](/docs/value-proposition.qmd)
 
-   - 4) Erstellung Business Model Canvas.
+   - 4) Erstellung [Business Model Canvas](docs/business-model-canvas.qmd).
 
 3. **Produktentwicklung und Design**:
    - Gestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.
