@@ -41,4 +41,8 @@ Was ist der "Job" eines McDonald's-Milchshakes? Das fragte sich der Harvard Busi
 
 ## Ressourcen
 
+- Die Jobs und Bedürfnisse/Schmerzpunbkte der Kunden können mit Hilfe des Kundensegment-Profils des [Value Proposition Canvas](/docs/value-proposition.qmd) ermittelt werden.
+
+<!--
 - Das [Jobs-to-be-Done-Template](https://miro.com/de/templates/jobs-to-be-done/) von Miro kann dabei helfen festzuhalten, wie und warum die Kunden ein Produkt  nutzen und kaufen.
+-->
