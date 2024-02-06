@@ -41,6 +41,7 @@ Die Prüfungsleistung besteht aus den folgenden Bestandteilen:
 4. **Dokumentation**:
    - Erstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.
    - Die Dokumentation sollte nicht länger als 12 Seiten sein.
+   - Hier finden Sie eine [Vorlage](/docs/dokumentation.qmd) für die Erstellung der Dokumentation
 
 5. **Präsentation (am 31.01.24)**:
    - Vorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).
