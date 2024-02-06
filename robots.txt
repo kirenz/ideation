@@ -1,1 +1,1 @@
-Sitemap: https://github.com/kirenz/ideation/sitemap.xml
+Sitemap: https://kirenz.github.io/ideation/sitemap.xml
