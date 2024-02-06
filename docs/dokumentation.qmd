@@ -1,8 +1,85 @@
 ---
 title: "Dokumentation"
-number-sections: true
+number-sections: false
 ---
 
-Inhaltsverzeichnis mit Kapiteln und Seitenzahlen
+
+Bitte beachten Sie für die Erstellung der Dokumentation die im Abschnitt [Lernziele und Prüfungsleistung](https://kirenz.github.io/ideation/syllabus.html#lernziele-und-pr%C3%BCfungsleistung) aufgeführten Hinweise.
+
+Die Zitierweise sollte im APA-Stil erfolgen ([hier einige Hinweise zu APA](https://www.bibguru.com/de/c/literaturverzeichnis-generator/)).
 
 
+# Gliederungsübersicht
+
+- 1. Einleitung (0,5-1 Seite)
+- 2. Ideenfindung (1-2 Seiten)
+  - 2.1 Verständnisphase 
+  - 2.2 Definition der Problemstellung
+  - 2.3 Ideengenerierung
+- 3. Entrepreneurship-Frameworks (5-6 Seiten)
+  - 3.1 Blue Ocean Strategy
+  - 3.2 Jobs-to-be-Done Framework
+  - 3.3 User Persona (bzw. Buyer Persona)
+  - 3.4 Wertangebot
+  - 3.5 Business Model Canvas
+- 4. Produktentwicklung und Design (2 Seiten)
+  - 4.1 Produktkonzept und Design
+  - 4.2 Mock-Ups
+- 5. Fazit und Ausblick (1 Seite)
+- Anhang (flexibel, nicht im Seitenlimit enthalten)
+
+# Dokumentation des Ideationsprozesses
+
+## 1. Einleitung
+Kurze Einführung in das Projekt, die Zielsetzung und den Umfang der Dokumentation. Vorstellung der Teammitglieder und ihrer jeweiligen Rollen im Projekt. (1 Seite)
+
+## 2. Ideenfindung 
+
+### 2.1 Verständnisphase
+Beschreibung der Zielgruppe und des Problems, das gelöst werden soll. Zusammenfassung der durchgeführten Recherchen und Erkenntnisse.
+
+### 2.2 Definition der Problemstellung
+Klare Definition des Problems, das die Idee adressieren soll. 
+
+### 2.3 Ideengenerierung
+Darstellung des Brainstorming-Prozesses und anderer Kreativtechniken zur Ideenfindung. Auswahl und Bewertung von Ideen: Kriterien und Entscheidungsprozess.
+
+## 3. Anwendung von Entrepreneurship-Frameworks
+
+### 3.1 Blue Ocean Strategy
+Analyse des aktuellen Marktes und der Konkurrenz. Identifikation von Marktnischen und Differenzierungsstrategien (bspw. anhand 4-Actions-Framework, Strategy Canvas). 
+
+### 3.2 Jobs-to-be-Done Framework 
+Anwendung des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz des Value Proposition Canvas zur Erstellung der Kundenprofile (Jobs, Gains und Pains).
+
+### 3.3 User Persona (oder Buyer Persona)
+Auf Basis des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz soll eine Persona erstellt werden. Mit Informationen zu Demografie, Motivation, Bedürfnisse, Ziele und Verhalten.
+
+### 3.4 Wertangebot
+Definition des Wertangebots und wie es die Kundenbedürfnisse adressiert.
+
+### 3.5 Business Model Canvas
+Kurze Beschreibung der 9 Felder des Business Model Canvas (Kosten und Umsatz können sehr kurz gehalten werden).
+
+
+## 4. Produktentwicklung und Design (2-3 Seiten)
+
+### 4.1 Produktkonzept
+Beschreibung des digitalen (und bei Bedarf physischen) Produkts und wie es die Marktanforderungen und -chancen adressiert.
+
+### 4.2 Design und Mock-Ups
+Erläuterungen zu den Funktionen und zum Design des digitalen Produkts anhand von Mock-Ups (gegebenenfalls zusätzlich einen Link zu digitaler Version bereitstellen). 
+
+## 5. Fazit und Ausblick (1 Seite)
+Kurze Zusammenfassung der wichtigsten Erkenntnisse und Ergebnisse des Projekts. Darstellung möglicher nächster Schritte für die Weiterentwicklung des Produkts und der Geschäftsidee.
+
+
+## Literaturverzeichnis
+
+
+Erstellen Sie ein Literaturverzeichnis gemäß den APA-Vorgaben ([hier finden Sie Hinweise dazu](https://www.bibguru.com/de/guides/richtig-zitieren/))
+
+
+## Anhang
+
+Der Anhang ist optional. Hier können zusätzliche Materialien aufgeführt werden.
