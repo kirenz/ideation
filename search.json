@@ -179,7 +179,56 @@
     "href": "docs/dokumentation.html",
     "title": "Dokumentation",
     "section": "",
-    "text": "Inhaltsverzeichnis mit Kapiteln und Seitenzahlen"
+    "text": "Bitte beachten Sie für die Erstellung der Dokumentation die im Abschnitt Lernziele und Prüfungsleistung aufgeführten Hinweise.\nDie Zitierweise sollte im APA-Stil erfolgen (hier einige Hinweise zu APA)."
+  },
+  {
+    "objectID": "docs/dokumentation.html#einleitung",
+    "href": "docs/dokumentation.html#einleitung",
+    "title": "Dokumentation",
+    "section": "1. Einleitung",
+    "text": "1. Einleitung\nKurze Einführung in das Projekt, die Zielsetzung und den Umfang der Dokumentation. Vorstellung der Teammitglieder und ihrer jeweiligen Rollen im Projekt. (1 Seite)"
+  },
+  {
+    "objectID": "docs/dokumentation.html#ideenfindung",
+    "href": "docs/dokumentation.html#ideenfindung",
+    "title": "Dokumentation",
+    "section": "2. Ideenfindung",
+    "text": "2. Ideenfindung\n\n2.1 Verständnisphase\nBeschreibung der Zielgruppe und des Problems, das gelöst werden soll. Zusammenfassung der durchgeführten Recherchen und Erkenntnisse.\n\n\n2.2 Definition der Problemstellung\nKlare Definition des Problems, das die Idee adressieren soll.\n\n\n2.3 Ideengenerierung\nDarstellung des Brainstorming-Prozesses und anderer Kreativtechniken zur Ideenfindung. Auswahl und Bewertung von Ideen: Kriterien und Entscheidungsprozess."
+  },
+  {
+    "objectID": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
+    "href": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
+    "title": "Dokumentation",
+    "section": "3. Anwendung von Entrepreneurship-Frameworks",
+    "text": "3. Anwendung von Entrepreneurship-Frameworks\n\n3.1 Blue Ocean Strategy\nAnalyse des aktuellen Marktes und der Konkurrenz. Identifikation von Marktnischen und Differenzierungsstrategien (bspw. anhand 4-Actions-Framework, Strategy Canvas).\n\n\n3.2 Jobs-to-be-Done Framework\nAnwendung des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz des Value Proposition Canvas zur Erstellung der Kundenprofile (Jobs, Gains und Pains).\n\n\n3.3 User Persona (oder Buyer Persona)\nAuf Basis des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz soll eine Persona erstellt werden. Mit Informationen zu Demografie, Motivation, Bedürfnisse, Ziele und Verhalten.\n\n\n3.4 Wertangebot\nDefinition des Wertangebots und wie es die Kundenbedürfnisse adressiert.\n\n\n3.5 Business Model Canvas\nKurze Beschreibung der 9 Felder des Business Model Canvas (Kosten und Umsatz können sehr kurz gehalten werden)."
+  },
+  {
+    "objectID": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
+    "href": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
+    "title": "Dokumentation",
+    "section": "4. Produktentwicklung und Design (2-3 Seiten)",
+    "text": "4. Produktentwicklung und Design (2-3 Seiten)\n\n4.1 Produktkonzept\nBeschreibung des digitalen (und bei Bedarf physischen) Produkts und wie es die Marktanforderungen und -chancen adressiert.\n\n\n4.2 Design und Mock-Ups\nErläuterungen zu den Funktionen und zum Design des digitalen Produkts anhand von Mock-Ups (gegebenenfalls zusätzlich einen Link zu digitaler Version bereitstellen)."
+  },
+  {
+    "objectID": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
+    "href": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
+    "title": "Dokumentation",
+    "section": "5. Fazit und Ausblick (1 Seite)",
+    "text": "5. Fazit und Ausblick (1 Seite)\nKurze Zusammenfassung der wichtigsten Erkenntnisse und Ergebnisse des Projekts. Darstellung möglicher nächster Schritte für die Weiterentwicklung des Produkts und der Geschäftsidee."
+  },
+  {
+    "objectID": "docs/dokumentation.html#literaturverzeichnis",
+    "href": "docs/dokumentation.html#literaturverzeichnis",
+    "title": "Dokumentation",
+    "section": "Literaturverzeichnis",
+    "text": "Literaturverzeichnis\nErstellen Sie ein Literaturverzeichnis gemäß den APA-Vorgaben (hier finden Sie Hinweise dazu)"
+  },
+  {
+    "objectID": "docs/dokumentation.html#anhang",
+    "href": "docs/dokumentation.html#anhang",
+    "title": "Dokumentation",
+    "section": "Anhang",
+    "text": "Anhang\nDer Anhang ist optional. Hier können zusätzliche Materialien aufgeführt werden."
   },
   {
     "objectID": "index.html",
@@ -450,7 +499,7 @@
     "href": "syllabus.html#lernziele-und-prüfungsleistung",
     "title": "Syllabus",
     "section": "Lernziele und Prüfungsleistung",
-    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Mögliche Vorgehensweise:\n\nJobs-to-be-Done Framework in Kombination mit Kundenprofil-Ansatz des Value Proposition Canvas\n\n\nErstellung User Persona oder Buyer Persona\n\n\nDefinition des Wertangebots (Value Map) mit Hilfe des Value Proposition Canvas\n\n\nErstellung Business Model Canvas.\n\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint.",
+    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Mögliche Vorgehensweise:\n\nJobs-to-be-Done Framework in Kombination mit Kundenprofil-Ansatz des Value Proposition Canvas\n\n\nErstellung User Persona oder Buyer Persona\n\n\nDefinition des Wertangebots (Value Map) mit Hilfe des Value Proposition Canvas\n\n\nErstellung Business Model Canvas.\n\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\nHier finden Sie eine Vorlage für die Erstellung der Dokumentation\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint.",
     "crumbs": [
       "Course information",
       "Syllabus"
