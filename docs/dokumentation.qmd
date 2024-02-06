@@ -11,7 +11,7 @@ Die Zitierweise sollte im APA-Stil erfolgen ([hier einige Hinweise zu APA](https
 Hier finden Sie eine [Word-Vorlage](https://www.hdm-stuttgart.de/~riekert/theses/thesis.docx) für die Erstellung einer Abschlussarbeit. Einige der dort aufgeführten Inhalte werden nicht benötigt, das Dokument kann jedoch gut als Vorlage genutzt werden.
 
 
-# Gliederungsübersicht
+# Gliederungsvorschlag
 
 1. Einleitung (0,5-1 Seite)
 2. Ideenfindung (1-2 Seiten)  
@@ -31,7 +31,7 @@ Hier finden Sie eine [Word-Vorlage](https://www.hdm-stuttgart.de/~riekert/theses
 
 Anhang (flexibel, nicht im Seitenlimit enthalten)
 
-# Dokumentation des Ideationsprozesses
+# Hinweise zu den Kapiteln
 
 ## 1. Einleitung
 Kurze Einführung in das Projekt, die Zielsetzung und den Umfang der Dokumentation. Vorstellung der Teammitglieder und ihrer jeweiligen Rollen im Projekt. (1 Seite)
@@ -47,7 +47,7 @@ Klare Definition des Problems, das die Idee adressieren soll.
 ### 2.3 Ideengenerierung
 Darstellung des Brainstorming-Prozesses und anderer Kreativtechniken zur Ideenfindung. Auswahl und Bewertung von Ideen: Kriterien und Entscheidungsprozess.
 
-## 3. Anwendung von Entrepreneurship-Frameworks
+## 3. Entrepreneurship-Frameworks
 
 ### 3.1 Blue Ocean Strategy
 Analyse des aktuellen Marktes und der Konkurrenz. Identifikation von Marktnischen und Differenzierungsstrategien (bspw. anhand 4-Actions-Framework, Strategy Canvas). 
