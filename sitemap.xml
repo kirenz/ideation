@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kirenz.github.io/ideation/docs/dokumentation.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/ideation/docs/user-persona.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/ideation/docs/value-proposition.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/ideation/syllabus.html</loc>
-    <lastmod>2024-02-06T15:18:43.576Z</lastmod>
-  </url>
-  <url>
     <loc>https://kirenz.github.io/ideation/code/notebook.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
   </url>
   <url>
     <loc>https://kirenz.github.io/ideation/course-overview.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
   </url>
   <url>
-    <loc>https://kirenz.github.io/ideation/index.html</loc>
-    <lastmod>2024-02-06T15:18:43.576Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kirenz.github.io/ideation/docs/business-model-canvas.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
+    <loc>https://kirenz.github.io/ideation/docs/user-persona.html</loc>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
   </url>
   <url>
     <loc>https://kirenz.github.io/ideation/docs/jobs-to-be-done.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/ideation/docs/dokumentation.html</loc>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/ideation/index.html</loc>
+    <lastmod>2024-02-06T15:26:12.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/ideation/docs/business-model-canvas.html</loc>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/ideation/docs/value-proposition.html</loc>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
   </url>
   <url>
     <loc>https://kirenz.github.io/ideation/docs/buyer-persona.html</loc>
-    <lastmod>2024-02-06T15:18:43.568Z</lastmod>
+    <lastmod>2024-02-06T15:26:12.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kirenz.github.io/ideation/syllabus.html</loc>
+    <lastmod>2024-02-06T15:26:12.061Z</lastmod>
   </url>
 </urlset>
