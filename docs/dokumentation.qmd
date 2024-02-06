@@ -12,20 +12,21 @@ Die Zitierweise sollte im APA-Stil erfolgen ([hier einige Hinweise zu APA](https
 # Gliederungsübersicht
 
 1. Einleitung (0,5-1 Seite)
-2. Ideenfindung (1-2 Seiten)
-  - 2.1 Verständnisphase 
-  - 2.2 Definition der Problemstellung
-  - 2.3 Ideengenerierung
-3. Entrepreneurship-Frameworks (5-6 Seiten)
-  - 3.1 Blue Ocean Strategy
-  - 3.2 Jobs-to-be-Done Framework
-  - 3.3 User Persona (bzw. Buyer Persona)
-  - 3.4 Wertangebot
-  - 3.5 Business Model Canvas
-4. Produktentwicklung und Design (2 Seiten)
-  - 4.1 Produktkonzept und Design
-  - 4.2 Mock-Ups
-5. Fazit und Ausblick (1 Seite)
+2. Ideenfindung (1-2 Seiten)  
+  2.1 Verständnisphase   
+  2.2 Definition der Problemstellung  
+  2.3 Ideengenerierung  
+3. Entrepreneurship-Frameworks (5-6 Seiten)  
+  3.1 Blue Ocean Strategy  
+  3.2 Jobs-to-be-Done Framework  
+  3.3 User Persona (bzw. Buyer Persona)  
+  3.4 Wertangebot  
+  3.5 Business Model Canvas  
+4. Produktentwicklung und Design (2 Seiten)  
+  4.1 Produktkonzept und Design  
+  4.2 Mock-Ups  
+5. Fazit und Ausblick (1 Seite)  
+
 Anhang (flexibel, nicht im Seitenlimit enthalten)
 
 # Dokumentation des Ideationsprozesses
