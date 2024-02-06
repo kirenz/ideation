@@ -1,24 +1,59 @@
 [
   {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
+    "objectID": "docs/dokumentation.html",
+    "href": "docs/dokumentation.html",
+    "title": "Dokumentation",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "Bitte beachten Sie für die Erstellung der Dokumentation die im Abschnitt Lernziele und Prüfungsleistung aufgeführten Hinweise.\nDie Zitierweise sollte im APA-Stil erfolgen (hier einige Hinweise zu APA)."
   },
   {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "objectID": "docs/dokumentation.html#einleitung",
+    "href": "docs/dokumentation.html#einleitung",
+    "title": "Dokumentation",
+    "section": "1. Einleitung",
+    "text": "1. Einleitung\nKurze Einführung in das Projekt, die Zielsetzung und den Umfang der Dokumentation. Vorstellung der Teammitglieder und ihrer jeweiligen Rollen im Projekt. (1 Seite)"
   },
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Kursübersicht",
-    "section": "",
-    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln."
+    "objectID": "docs/dokumentation.html#ideenfindung",
+    "href": "docs/dokumentation.html#ideenfindung",
+    "title": "Dokumentation",
+    "section": "2. Ideenfindung",
+    "text": "2. Ideenfindung\n\n2.1 Verständnisphase\nBeschreibung der Zielgruppe und des Problems, das gelöst werden soll. Zusammenfassung der durchgeführten Recherchen und Erkenntnisse.\n\n\n2.2 Definition der Problemstellung\nKlare Definition des Problems, das die Idee adressieren soll.\n\n\n2.3 Ideengenerierung\nDarstellung des Brainstorming-Prozesses und anderer Kreativtechniken zur Ideenfindung. Auswahl und Bewertung von Ideen: Kriterien und Entscheidungsprozess."
+  },
+  {
+    "objectID": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
+    "href": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
+    "title": "Dokumentation",
+    "section": "3. Anwendung von Entrepreneurship-Frameworks",
+    "text": "3. Anwendung von Entrepreneurship-Frameworks\n\n3.1 Blue Ocean Strategy\nAnalyse des aktuellen Marktes und der Konkurrenz. Identifikation von Marktnischen und Differenzierungsstrategien (bspw. anhand 4-Actions-Framework, Strategy Canvas).\n\n\n3.2 Jobs-to-be-Done Framework\nAnwendung des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz des Value Proposition Canvas zur Erstellung der Kundenprofile (Jobs, Gains und Pains).\n\n\n3.3 User Persona (oder Buyer Persona)\nAuf Basis des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz soll eine Persona erstellt werden. Mit Informationen zu Demografie, Motivation, Bedürfnisse, Ziele und Verhalten.\n\n\n3.4 Wertangebot\nDefinition des Wertangebots und wie es die Kundenbedürfnisse adressiert.\n\n\n3.5 Business Model Canvas\nKurze Beschreibung der 9 Felder des Business Model Canvas (Kosten und Umsatz können sehr kurz gehalten werden)."
+  },
+  {
+    "objectID": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
+    "href": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
+    "title": "Dokumentation",
+    "section": "4. Produktentwicklung und Design (2-3 Seiten)",
+    "text": "4. Produktentwicklung und Design (2-3 Seiten)\n\n4.1 Produktkonzept\nBeschreibung des digitalen (und bei Bedarf physischen) Produkts und wie es die Marktanforderungen und -chancen adressiert.\n\n\n4.2 Design und Mock-Ups\nErläuterungen zu den Funktionen und zum Design des digitalen Produkts anhand von Mock-Ups (gegebenenfalls zusätzlich einen Link zu digitaler Version bereitstellen)."
+  },
+  {
+    "objectID": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
+    "href": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
+    "title": "Dokumentation",
+    "section": "5. Fazit und Ausblick (1 Seite)",
+    "text": "5. Fazit und Ausblick (1 Seite)\nKurze Zusammenfassung der wichtigsten Erkenntnisse und Ergebnisse des Projekts. Darstellung möglicher nächster Schritte für die Weiterentwicklung des Produkts und der Geschäftsidee."
+  },
+  {
+    "objectID": "docs/dokumentation.html#literaturverzeichnis",
+    "href": "docs/dokumentation.html#literaturverzeichnis",
+    "title": "Dokumentation",
+    "section": "Literaturverzeichnis",
+    "text": "Literaturverzeichnis\nErstellen Sie ein Literaturverzeichnis gemäß den APA-Vorgaben (hier finden Sie Hinweise dazu)"
+  },
+  {
+    "objectID": "docs/dokumentation.html#anhang",
+    "href": "docs/dokumentation.html#anhang",
+    "title": "Dokumentation",
+    "section": "Anhang",
+    "text": "Anhang\nDer Anhang ist optional. Hier können zusätzliche Materialien aufgeführt werden."
   },
   {
     "objectID": "docs/user-persona.html",
@@ -120,172 +155,6 @@
     ]
   },
   {
-    "objectID": "docs/jobs-to-be-done.html",
-    "href": "docs/jobs-to-be-done.html",
-    "title": "Jobs to be Done",
-    "section": "",
-    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird.",
-    "crumbs": [
-      "Unterlagen",
-      "Jobs to be Done"
-    ]
-  },
-  {
-    "objectID": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
-    "href": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
-    "title": "Jobs to be Done",
-    "section": "",
-    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird.",
-    "crumbs": [
-      "Unterlagen",
-      "Jobs to be Done"
-    ]
-  },
-  {
-    "objectID": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
-    "href": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
-    "title": "Jobs to be Done",
-    "section": "Soziale, emotionale und funktionale Aspekte",
-    "text": "Soziale, emotionale und funktionale Aspekte\nDer Fokus auf den Kundenfortschritt im Rahmen von Jobs-to-be-Done bedeutet, alle Aspekte eines Produkts oder einer Dienstleistung zu berücksichtigen, die dazu beitragen, die Lebenssituation des Kunden zu verbessern. Dies umfasst nicht nur funktionale Aspekte, sondern auch soziale und emotionale Elemente.\n\nFunktionale Aspekte: Ein effizientes Haushaltsgerät (z.B. ein intelligenter Staubsauger) erleichtert nicht nur die Reinigung, sondern schafft auch mehr Freizeit für den Benutzer.\nEmotionale Aspekte: Ein Musikstreaming-Dienst bietet nicht nur Zugang zu Musik, sondern schafft auch emotionale Erlebnisse, indem er Erinnerungen weckt oder Entspannung fördert.\nSoziale Aspekte: Ein Smartphone ermöglicht nicht nur Kommunikation, sondern stärkt auch soziale Bindungen durch gemeinsame Erlebnisse, wie das Teilen von Fotos und Videos.\n\nIn der Produktentwicklung ist es wichtig, diese Aspekte zu verstehen und zu berücksichtigen, um Produkte zu schaffen, die einen echten Fortschritt im Leben der Kunden ermöglichen.",
-    "crumbs": [
-      "Unterlagen",
-      "Jobs to be Done"
-    ]
-  },
-  {
-    "objectID": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
-    "href": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
-    "title": "Jobs to be Done",
-    "section": "Anwendung des JTBD-Ansatzes",
-    "text": "Anwendung des JTBD-Ansatzes\n\nErforschung der Kundenbedürfnisse: Tiefgehendes Verständnis des Kunden und seines Kontextes.\nEntwicklung und Innovation: Schaffung von Produkten, die echten Fortschritt für den Kunden ermöglichen.\nFokus auf den Kundenfortschritt: Berücksichtigung von sozialen, emotionalen und funktionalen Aspekten bei der Produktentwicklung.\n\nWas ist der “Job” eines McDonald’s-Milchshakes? Das fragte sich der Harvard Business School-Professor und Experte für disruptive Innovationen Clayton Christensen, als McDonald’s an ihn herantrat, um seine Milchshake-Produktlinie zu erneuern. Durch die Aufdeckung der Aufgaben, die ein McDonald’s-Milchshake zu erfüllen hat, erkannte das Unternehmen, dass der Markt für Milchshakes siebenmal größer ist, als es gedacht hatte:",
-    "crumbs": [
-      "Unterlagen",
-      "Jobs to be Done"
-    ]
-  },
-  {
-    "objectID": "docs/jobs-to-be-done.html#ressourcen",
-    "href": "docs/jobs-to-be-done.html#ressourcen",
-    "title": "Jobs to be Done",
-    "section": "Ressourcen",
-    "text": "Ressourcen\n\nDie Jobs und Bedürfnisse/Schmerzpunbkte der Kunden können mit Hilfe des Kundensegment-Profils des Value Proposition Canvas ermittelt werden.",
-    "crumbs": [
-      "Unterlagen",
-      "Jobs to be Done"
-    ]
-  },
-  {
-    "objectID": "docs/dokumentation.html",
-    "href": "docs/dokumentation.html",
-    "title": "Dokumentation",
-    "section": "",
-    "text": "Bitte beachten Sie für die Erstellung der Dokumentation die im Abschnitt Lernziele und Prüfungsleistung aufgeführten Hinweise.\nDie Zitierweise sollte im APA-Stil erfolgen (hier einige Hinweise zu APA)."
-  },
-  {
-    "objectID": "docs/dokumentation.html#einleitung",
-    "href": "docs/dokumentation.html#einleitung",
-    "title": "Dokumentation",
-    "section": "1. Einleitung",
-    "text": "1. Einleitung\nKurze Einführung in das Projekt, die Zielsetzung und den Umfang der Dokumentation. Vorstellung der Teammitglieder und ihrer jeweiligen Rollen im Projekt. (1 Seite)"
-  },
-  {
-    "objectID": "docs/dokumentation.html#ideenfindung",
-    "href": "docs/dokumentation.html#ideenfindung",
-    "title": "Dokumentation",
-    "section": "2. Ideenfindung",
-    "text": "2. Ideenfindung\n\n2.1 Verständnisphase\nBeschreibung der Zielgruppe und des Problems, das gelöst werden soll. Zusammenfassung der durchgeführten Recherchen und Erkenntnisse.\n\n\n2.2 Definition der Problemstellung\nKlare Definition des Problems, das die Idee adressieren soll.\n\n\n2.3 Ideengenerierung\nDarstellung des Brainstorming-Prozesses und anderer Kreativtechniken zur Ideenfindung. Auswahl und Bewertung von Ideen: Kriterien und Entscheidungsprozess."
-  },
-  {
-    "objectID": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
-    "href": "docs/dokumentation.html#anwendung-von-entrepreneurship-frameworks",
-    "title": "Dokumentation",
-    "section": "3. Anwendung von Entrepreneurship-Frameworks",
-    "text": "3. Anwendung von Entrepreneurship-Frameworks\n\n3.1 Blue Ocean Strategy\nAnalyse des aktuellen Marktes und der Konkurrenz. Identifikation von Marktnischen und Differenzierungsstrategien (bspw. anhand 4-Actions-Framework, Strategy Canvas).\n\n\n3.2 Jobs-to-be-Done Framework\nAnwendung des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz des Value Proposition Canvas zur Erstellung der Kundenprofile (Jobs, Gains und Pains).\n\n\n3.3 User Persona (oder Buyer Persona)\nAuf Basis des Jobs-to-be-Done Frameworks in Kombination mit dem Kundenprofil-Ansatz soll eine Persona erstellt werden. Mit Informationen zu Demografie, Motivation, Bedürfnisse, Ziele und Verhalten.\n\n\n3.4 Wertangebot\nDefinition des Wertangebots und wie es die Kundenbedürfnisse adressiert.\n\n\n3.5 Business Model Canvas\nKurze Beschreibung der 9 Felder des Business Model Canvas (Kosten und Umsatz können sehr kurz gehalten werden)."
-  },
-  {
-    "objectID": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
-    "href": "docs/dokumentation.html#produktentwicklung-und-design-2-3-seiten",
-    "title": "Dokumentation",
-    "section": "4. Produktentwicklung und Design (2-3 Seiten)",
-    "text": "4. Produktentwicklung und Design (2-3 Seiten)\n\n4.1 Produktkonzept\nBeschreibung des digitalen (und bei Bedarf physischen) Produkts und wie es die Marktanforderungen und -chancen adressiert.\n\n\n4.2 Design und Mock-Ups\nErläuterungen zu den Funktionen und zum Design des digitalen Produkts anhand von Mock-Ups (gegebenenfalls zusätzlich einen Link zu digitaler Version bereitstellen)."
-  },
-  {
-    "objectID": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
-    "href": "docs/dokumentation.html#fazit-und-ausblick-1-seite",
-    "title": "Dokumentation",
-    "section": "5. Fazit und Ausblick (1 Seite)",
-    "text": "5. Fazit und Ausblick (1 Seite)\nKurze Zusammenfassung der wichtigsten Erkenntnisse und Ergebnisse des Projekts. Darstellung möglicher nächster Schritte für die Weiterentwicklung des Produkts und der Geschäftsidee."
-  },
-  {
-    "objectID": "docs/dokumentation.html#literaturverzeichnis",
-    "href": "docs/dokumentation.html#literaturverzeichnis",
-    "title": "Dokumentation",
-    "section": "Literaturverzeichnis",
-    "text": "Literaturverzeichnis\nErstellen Sie ein Literaturverzeichnis gemäß den APA-Vorgaben (hier finden Sie Hinweise dazu)"
-  },
-  {
-    "objectID": "docs/dokumentation.html#anhang",
-    "href": "docs/dokumentation.html#anhang",
-    "title": "Dokumentation",
-    "section": "Anhang",
-    "text": "Anhang\nDer Anhang ist optional. Hier können zusätzliche Materialien aufgeführt werden."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ideation und Entrepreneurship",
-    "section": "",
-    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird.\n\n\n\n\n\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑 Moodle\n\n\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑\n\n\n4\n08.11.\nGenerative AI & Teambesprechungen\n📚\n📑\n\n\n5\n15.11.\nBlue Ocean Strategy\n\n📑\n\n\n6\n22.11.\nNo lecture\n\n\n\n\n7\n29.11.\nWorkshop mit Amsterdam University of Applied Sciences\n\n📑 Moodle\n\n\n8\n06.12.\nDesign Thinking Workshop mit zoi\n📚\n📑 Moodle",
-    "crumbs": [
-      "Course information",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "docs/business-model-canvas.html",
-    "href": "docs/business-model-canvas.html",
-    "title": "Business Model Canvas",
-    "section": "",
-    "text": "Das Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ein Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Das BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren.\n\n\nDieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten.\nIn einer sich schnell verändernden Geschäftswelt bietet das Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.",
-    "crumbs": [
-      "Unterlagen",
-      "Business Model Canvas"
-    ]
-  },
-  {
-    "objectID": "docs/business-model-canvas.html#grundlagen",
-    "href": "docs/business-model-canvas.html#grundlagen",
-    "title": "Business Model Canvas",
-    "section": "",
-    "text": "Das Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ein Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Das BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren.\n\n\nDieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten.\nIn einer sich schnell verändernden Geschäftswelt bietet das Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.",
-    "crumbs": [
-      "Unterlagen",
-      "Business Model Canvas"
-    ]
-  },
-  {
-    "objectID": "docs/business-model-canvas.html#felder-des-business-model-canvas",
-    "href": "docs/business-model-canvas.html#felder-des-business-model-canvas",
-    "title": "Business Model Canvas",
-    "section": "9 Felder des Business Model Canvas",
-    "text": "9 Felder des Business Model Canvas\nErklärung des Business Model Canvas anhand eines fiktiven Unternehmens, “GreenCycle”, ein Startup, das sich auf die Herstellung und den Verkauf nachhaltiger Fahrräder konzentriert, durchgehen.\n\nKundensegmente\n\nErklärung: Die verschiedenen Gruppen von Personen oder Organisationen, die das Unternehmen bedient.\nBeispiel für GreenCycle: Umweltbewusste Verbraucher, urbane Pendler, Fahrradenthusiasten.\nWichtige Fragen:\n\nFür wen schaffen wir Wert?\nWer sind unsere wichtigsten Kunden?\n\n\n\n\nWertangebote\n\nErklärung: Das Produkt oder die Dienstleistung, die das Unternehmen seinen Kunden anbietet.\nBeispiel für GreenCycle: Nachhaltig hergestellte Fahrräder, die umweltfreundlich und langlebig sind.\nWichtige Fragen:\n\nWelchen Wert bieten wir unseren Kunden?\nWas unterscheidet unser Angebot von der Konkurrenz?\n\n\n\n\nKundenbeziehungen\n\nErklärung: Die Art der Beziehung, die ein Unternehmen mit seinen Kunden aufbaut und pflegt.\nBeispiel für GreenCycle: Persönlicher Kundenservice, Community-Building durch soziale Medien, Kunden-Feedback-Programme.\nWichtige Fragen:\n\nWie interagieren wir mit unseren Kunden?\nWie verbessern und erhalten wir Kundenbeziehungen?\n\n\n\n\nKanäle\n\nErklärung: Die Mittel, durch die das Unternehmen seine Kunden erreicht und mit ihnen interagiert.\nBeispiel für GreenCycle: Online-Shop, physische Fahrradgeschäfte, soziale Medien.\nWichtige Fragen:\n\nÜber welche Kanäle erreichen wir unsere Kunden am effektivsten?\nWie sind unsere Vertriebs- und Kommunikationskanäle integriert?\n\n\n\n\nSchlüsselressourcen\n\nErklärung: Die Ressourcen, die für das Funktionieren des Geschäftsmodells notwendig sind.\nBeispiel für GreenCycle: Fachwissen in nachhaltiger Produktion, hochwertige Materialien, qualifiziertes Personal.\nWichtige Fragen:\n\nWelche Ressourcen sind für unser Geschäft kritisch?\nHaben wir Zugang zu diesen Ressourcen?\n\n\n\n\nSchlüsselaktivitäten\n\nErklärung: Die wichtigsten Aktivitäten, die erforderlich sind, um das Geschäftsmodell umzusetzen.\nBeispiel für GreenCycle: Entwicklung umweltfreundlicher Fahrräder, Marketingaktivitäten, Kundenservice.\nWichtige Fragen:\n\nWas sind die wichtigsten Dinge, die wir tun müssen, um erfolgreich zu sein?\nWie erreichen wir unsere Kunden?\n\n\n\n\nSchlüsselpartner\n\nErklärung: Identifiziert die externen Organisationen, Lieferanten und Partner, die für den Erfolg des Unternehmens wesentlich sind.\nBeispiel für GreenCycle: Partnerschaften mit Lieferanten für nachhaltige Materialien, lokale Fahrradgeschäfte für den Vertrieb.\nWichtige Fragen:\n\nWer sind unsere Schlüssellieferanten?\nWelche Partnerschaften sind für uns entscheidend?\n\n\n\n\nEinnahmequellen\n\nErklärung: Die Art und Weise, wie das Unternehmen Geld verdient.\nBeispiel für GreenCycle: Verkauf von Fahrrädern, Zubehörverkäufe, möglicherweise Serviceangebote.\nWichtige Fragen:\n\nFür welche Werte sind unsere Kunden bereit zu zahlen?\nWie zahlen unsere Kunden?\nWelche Bezahloptionen werden bereitgestellt (Abo, …)?\n\n\n\n\nKostenstruktur\n\nErklärung: Die wichtigsten monetären Kosten, die beim Betrieb des Geschäftsmodells anfallen.\nBeispiel für GreenCycle: Produktionskosten, Marketingausgaben, Mitarbeitergehälter.\nWichtige Fragen:\n\nWas sind die größten Kosten in unserem Geschäftsmodell?\nWelche Schlüsselressourcen und -aktivitäten sind am teuersten?",
-    "crumbs": [
-      "Unterlagen",
-      "Business Model Canvas"
-    ]
-  },
-  {
-    "objectID": "docs/business-model-canvas.html#ressourcen",
-    "href": "docs/business-model-canvas.html#ressourcen",
-    "title": "Business Model Canvas",
-    "section": "Ressourcen",
-    "text": "Ressourcen\n\nMiro Business Model Canvas Template",
-    "crumbs": [
-      "Unterlagen",
-      "Business Model Canvas"
-    ]
-  },
-  {
     "objectID": "docs/value-proposition.html",
     "href": "docs/value-proposition.html",
     "title": "Value Proposition Canvas",
@@ -349,6 +218,192 @@
     "crumbs": [
       "Unterlagen",
       "Value Proposition Canvas"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Tag\nUhrzeit\nOrt\n\n\n\n\nVorlesung\nMittwoch\n10:00 - 11:30\nS003",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#veranstaltung",
+    "href": "syllabus.html#veranstaltung",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Tag\nUhrzeit\nOrt\n\n\n\n\nVorlesung\nMittwoch\n10:00 - 11:30\nS003",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#lernziele-und-prüfungsleistung",
+    "href": "syllabus.html#lernziele-und-prüfungsleistung",
+    "title": "Syllabus",
+    "section": "Lernziele und Prüfungsleistung",
+    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Mögliche Vorgehensweise:\n\nJobs-to-be-Done Framework in Kombination mit Kundenprofil-Ansatz des Value Proposition Canvas\n\n\nErstellung User Persona oder Buyer Persona\n\n\nDefinition des Wertangebots (Value Map) mit Hilfe des Value Proposition Canvas\n\n\nErstellung Business Model Canvas.\n\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\nHier finden Sie eine Vorlage für die Erstellung der Dokumentation\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint.",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#bewertungsraster",
+    "href": "syllabus.html#bewertungsraster",
+    "title": "Syllabus",
+    "section": "Bewertungsraster",
+    "text": "Bewertungsraster\nGeamtpunktzahl: 40 Punkte\n\n\n\n\n\n\n\n\nKriterium\nProzent\nBewertung\n\n\n\n\nRecherche und Ideenfindung\n10%\nTiefe der Recherche, Originalität der Idee\n\n\nAnwendung der Frameworks\n30%\nAnwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)\n\n\nProduktdesign und Mock-Up\n15%\nRelevanz hinsichtlich Marktanforderungen, Umsetzung in Figma\n\n\nDokumentation\n30%\nStruktur, Inhalt, Klarheit, Relevanz\n\n\nPräsentation (31.01.24)\n15%\nKlarheit, Überzeugungskraft, Zeitmanagement",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#notenschlüssel",
+    "href": "syllabus.html#notenschlüssel",
+    "title": "Syllabus",
+    "section": "Notenschlüssel",
+    "text": "Notenschlüssel\nDie Note für die erzielten Punkte wird auf der Grundlage der folgenden Schwellenwerte ermittelt:\n\n\n\nNote\nErreichte Prozent\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14",
+    "crumbs": [
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Kursübersicht",
+    "section": "",
+    "text": "Ideation und Entrepreneurship legt den Grundstein für die Entwicklung innovativer Geschäftsmodelle im Bereich Online Medien Management. Durch die Verknüpfung von Theorie und Praxis werden die wesentlichen Werkzeuge und Strategien vermittelt, um sowohl digitale als auch physische Produkte zu konzipieren und zu entwickeln."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ideation und Entrepreneurship",
+    "section": "",
+    "text": "Diese Seite enthält eine Übersicht über die Themen, Inhalte und Aufgaben für das Semester.\n\n\n\n\n\n\n\nHinweis\n\n\n\nBitte beachten Sie, dass dieser Zeitplan im Laufe des Semesters aktualisiert wird.\n\n\n\n\n\nNr.\nDatum\nThema\nLiteratur\nUnterlagen\n\n\n\n\n1\n11.10.\nBusiness Model Canvas\n📚\n📑\n\n\n2\n18.10.\nDesign Thinking Workshop mit Generator Startup Center\n\n📑 Moodle\n\n\n3\n25.10.\nValue Proposition Canvas & Jobs to be Done\n📚\n📑\n\n\n4\n08.11.\nGenerative AI & Teambesprechungen\n📚\n📑\n\n\n5\n15.11.\nBlue Ocean Strategy\n\n📑\n\n\n6\n22.11.\nNo lecture\n\n\n\n\n7\n29.11.\nWorkshop mit Amsterdam University of Applied Sciences\n\n📑 Moodle\n\n\n8\n06.12.\nDesign Thinking Workshop mit zoi\n📚\n📑 Moodle",
+    "crumbs": [
+      "Course information",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "docs/business-model-canvas.html",
+    "href": "docs/business-model-canvas.html",
+    "title": "Business Model Canvas",
+    "section": "",
+    "text": "Das Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ein Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Das BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren.\n\n\nDieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten.\nIn einer sich schnell verändernden Geschäftswelt bietet das Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.",
+    "crumbs": [
+      "Unterlagen",
+      "Business Model Canvas"
+    ]
+  },
+  {
+    "objectID": "docs/business-model-canvas.html#grundlagen",
+    "href": "docs/business-model-canvas.html#grundlagen",
+    "title": "Business Model Canvas",
+    "section": "",
+    "text": "Das Business Model Canvas (BMC) ist ein leistungsfähiges Werkzeug für Unternehmen, um ein Geschäftsmodell auf eine klare und strukturierte Weise zu visualisieren und zu analysieren. Es ermöglicht eine ganzheitliche Betrachtung der verschiedenen Aspekte eines Unternehmens, von den Wertangeboten bis hin zu den Einnahmequellen, und hilft dabei, die Beziehungen zwischen diesen Elementen zu verstehen. Das BMC dient nicht nur als Planungsinstrument, sondern auch als Kommunikationsmittel, das es Stakeholdern ermöglicht, die Geschäftsstrategie schnell zu erfassen und zu diskutieren.\n\n\nDieses Tool ist besonders nützlich, um neue Geschäftsideen zu evaluieren, bestehende Modelle zu überdenken und Anpassungen an Marktveränderungen vorzunehmen. Die Anwendung des BMC fördert innovatives Denken, erleichtert die Identifizierung von Optimierungspotenzialen und unterstützt Unternehmen dabei, ihre Strategie kundenorientiert und effizient zu gestalten.\nIn einer sich schnell verändernden Geschäftswelt bietet das Business Model Canvas eine flexible und dynamische Herangehensweise, die es Unternehmen ermöglicht, sich schnell an neue Gegebenheiten anzupassen und langfristig erfolgreich zu sein.",
+    "crumbs": [
+      "Unterlagen",
+      "Business Model Canvas"
+    ]
+  },
+  {
+    "objectID": "docs/business-model-canvas.html#felder-des-business-model-canvas",
+    "href": "docs/business-model-canvas.html#felder-des-business-model-canvas",
+    "title": "Business Model Canvas",
+    "section": "9 Felder des Business Model Canvas",
+    "text": "9 Felder des Business Model Canvas\nErklärung des Business Model Canvas anhand eines fiktiven Unternehmens, “GreenCycle”, ein Startup, das sich auf die Herstellung und den Verkauf nachhaltiger Fahrräder konzentriert, durchgehen.\n\nKundensegmente\n\nErklärung: Die verschiedenen Gruppen von Personen oder Organisationen, die das Unternehmen bedient.\nBeispiel für GreenCycle: Umweltbewusste Verbraucher, urbane Pendler, Fahrradenthusiasten.\nWichtige Fragen:\n\nFür wen schaffen wir Wert?\nWer sind unsere wichtigsten Kunden?\n\n\n\n\nWertangebote\n\nErklärung: Das Produkt oder die Dienstleistung, die das Unternehmen seinen Kunden anbietet.\nBeispiel für GreenCycle: Nachhaltig hergestellte Fahrräder, die umweltfreundlich und langlebig sind.\nWichtige Fragen:\n\nWelchen Wert bieten wir unseren Kunden?\nWas unterscheidet unser Angebot von der Konkurrenz?\n\n\n\n\nKundenbeziehungen\n\nErklärung: Die Art der Beziehung, die ein Unternehmen mit seinen Kunden aufbaut und pflegt.\nBeispiel für GreenCycle: Persönlicher Kundenservice, Community-Building durch soziale Medien, Kunden-Feedback-Programme.\nWichtige Fragen:\n\nWie interagieren wir mit unseren Kunden?\nWie verbessern und erhalten wir Kundenbeziehungen?\n\n\n\n\nKanäle\n\nErklärung: Die Mittel, durch die das Unternehmen seine Kunden erreicht und mit ihnen interagiert.\nBeispiel für GreenCycle: Online-Shop, physische Fahrradgeschäfte, soziale Medien.\nWichtige Fragen:\n\nÜber welche Kanäle erreichen wir unsere Kunden am effektivsten?\nWie sind unsere Vertriebs- und Kommunikationskanäle integriert?\n\n\n\n\nSchlüsselressourcen\n\nErklärung: Die Ressourcen, die für das Funktionieren des Geschäftsmodells notwendig sind.\nBeispiel für GreenCycle: Fachwissen in nachhaltiger Produktion, hochwertige Materialien, qualifiziertes Personal.\nWichtige Fragen:\n\nWelche Ressourcen sind für unser Geschäft kritisch?\nHaben wir Zugang zu diesen Ressourcen?\n\n\n\n\nSchlüsselaktivitäten\n\nErklärung: Die wichtigsten Aktivitäten, die erforderlich sind, um das Geschäftsmodell umzusetzen.\nBeispiel für GreenCycle: Entwicklung umweltfreundlicher Fahrräder, Marketingaktivitäten, Kundenservice.\nWichtige Fragen:\n\nWas sind die wichtigsten Dinge, die wir tun müssen, um erfolgreich zu sein?\nWie erreichen wir unsere Kunden?\n\n\n\n\nSchlüsselpartner\n\nErklärung: Identifiziert die externen Organisationen, Lieferanten und Partner, die für den Erfolg des Unternehmens wesentlich sind.\nBeispiel für GreenCycle: Partnerschaften mit Lieferanten für nachhaltige Materialien, lokale Fahrradgeschäfte für den Vertrieb.\nWichtige Fragen:\n\nWer sind unsere Schlüssellieferanten?\nWelche Partnerschaften sind für uns entscheidend?\n\n\n\n\nEinnahmequellen\n\nErklärung: Die Art und Weise, wie das Unternehmen Geld verdient.\nBeispiel für GreenCycle: Verkauf von Fahrrädern, Zubehörverkäufe, möglicherweise Serviceangebote.\nWichtige Fragen:\n\nFür welche Werte sind unsere Kunden bereit zu zahlen?\nWie zahlen unsere Kunden?\nWelche Bezahloptionen werden bereitgestellt (Abo, …)?\n\n\n\n\nKostenstruktur\n\nErklärung: Die wichtigsten monetären Kosten, die beim Betrieb des Geschäftsmodells anfallen.\nBeispiel für GreenCycle: Produktionskosten, Marketingausgaben, Mitarbeitergehälter.\nWichtige Fragen:\n\nWas sind die größten Kosten in unserem Geschäftsmodell?\nWelche Schlüsselressourcen und -aktivitäten sind am teuersten?",
+    "crumbs": [
+      "Unterlagen",
+      "Business Model Canvas"
+    ]
+  },
+  {
+    "objectID": "docs/business-model-canvas.html#ressourcen",
+    "href": "docs/business-model-canvas.html#ressourcen",
+    "title": "Business Model Canvas",
+    "section": "Ressourcen",
+    "text": "Ressourcen\n\nMiro Business Model Canvas Template",
+    "crumbs": [
+      "Unterlagen",
+      "Business Model Canvas"
+    ]
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html",
+    "href": "docs/jobs-to-be-done.html",
+    "title": "Jobs to be Done",
+    "section": "",
+    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird.",
+    "crumbs": [
+      "Unterlagen",
+      "Jobs to be Done"
+    ]
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
+    "href": "docs/jobs-to-be-done.html#was-ist-jobs-to-be-done",
+    "title": "Jobs to be Done",
+    "section": "",
+    "text": "Jobs-to-be-Done (JTBD) ist ein Konzept, das darauf abzielt, die wahren Gründe hinter den Entscheidungen von Kunden zu verstehen, insbesondere in Bezug auf den Kauf und die Nutzung von Produkten oder Dienstleistungen.\nDas Konzept fokussiert sich darauf, den Fortschritt zu verstehen, den Kunden in bestimmten Situationen anstreben, statt nur auf die Aufgaben oder Aktivitäten, die das Produkt unterstützt.\nJobs-to-be-Done bietet daher einen umfassenden Rahmen, um die Bedürfnisse und Motivationen von Kunden zu verstehen und Produkte zu entwickeln, die echten Mehrwert bieten. Es eigent sich als sinnvolle Ergänzung zum Persona-Ansatz, indem der Job in die Beschreibung der Persona integriert wird.",
+    "crumbs": [
+      "Unterlagen",
+      "Jobs to be Done"
+    ]
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
+    "href": "docs/jobs-to-be-done.html#soziale-emotionale-und-funktionale-aspekte",
+    "title": "Jobs to be Done",
+    "section": "Soziale, emotionale und funktionale Aspekte",
+    "text": "Soziale, emotionale und funktionale Aspekte\nDer Fokus auf den Kundenfortschritt im Rahmen von Jobs-to-be-Done bedeutet, alle Aspekte eines Produkts oder einer Dienstleistung zu berücksichtigen, die dazu beitragen, die Lebenssituation des Kunden zu verbessern. Dies umfasst nicht nur funktionale Aspekte, sondern auch soziale und emotionale Elemente.\n\nFunktionale Aspekte: Ein effizientes Haushaltsgerät (z.B. ein intelligenter Staubsauger) erleichtert nicht nur die Reinigung, sondern schafft auch mehr Freizeit für den Benutzer.\nEmotionale Aspekte: Ein Musikstreaming-Dienst bietet nicht nur Zugang zu Musik, sondern schafft auch emotionale Erlebnisse, indem er Erinnerungen weckt oder Entspannung fördert.\nSoziale Aspekte: Ein Smartphone ermöglicht nicht nur Kommunikation, sondern stärkt auch soziale Bindungen durch gemeinsame Erlebnisse, wie das Teilen von Fotos und Videos.\n\nIn der Produktentwicklung ist es wichtig, diese Aspekte zu verstehen und zu berücksichtigen, um Produkte zu schaffen, die einen echten Fortschritt im Leben der Kunden ermöglichen.",
+    "crumbs": [
+      "Unterlagen",
+      "Jobs to be Done"
+    ]
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
+    "href": "docs/jobs-to-be-done.html#anwendung-des-jtbd-ansatzes",
+    "title": "Jobs to be Done",
+    "section": "Anwendung des JTBD-Ansatzes",
+    "text": "Anwendung des JTBD-Ansatzes\n\nErforschung der Kundenbedürfnisse: Tiefgehendes Verständnis des Kunden und seines Kontextes.\nEntwicklung und Innovation: Schaffung von Produkten, die echten Fortschritt für den Kunden ermöglichen.\nFokus auf den Kundenfortschritt: Berücksichtigung von sozialen, emotionalen und funktionalen Aspekten bei der Produktentwicklung.\n\nWas ist der “Job” eines McDonald’s-Milchshakes? Das fragte sich der Harvard Business School-Professor und Experte für disruptive Innovationen Clayton Christensen, als McDonald’s an ihn herantrat, um seine Milchshake-Produktlinie zu erneuern. Durch die Aufdeckung der Aufgaben, die ein McDonald’s-Milchshake zu erfüllen hat, erkannte das Unternehmen, dass der Markt für Milchshakes siebenmal größer ist, als es gedacht hatte:",
+    "crumbs": [
+      "Unterlagen",
+      "Jobs to be Done"
+    ]
+  },
+  {
+    "objectID": "docs/jobs-to-be-done.html#ressourcen",
+    "href": "docs/jobs-to-be-done.html#ressourcen",
+    "title": "Jobs to be Done",
+    "section": "Ressourcen",
+    "text": "Ressourcen\n\nDie Jobs und Bedürfnisse/Schmerzpunbkte der Kunden können mit Hilfe des Kundensegment-Profils des Value Proposition Canvas ermittelt werden.",
+    "crumbs": [
+      "Unterlagen",
+      "Jobs to be Done"
     ]
   },
   {
@@ -470,61 +525,6 @@
     "crumbs": [
       "Unterlagen",
       "Buyer Persona"
-    ]
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Tag\nUhrzeit\nOrt\n\n\n\n\nVorlesung\nMittwoch\n10:00 - 11:30\nS003",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#veranstaltung",
-    "href": "syllabus.html#veranstaltung",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Tag\nUhrzeit\nOrt\n\n\n\n\nVorlesung\nMittwoch\n10:00 - 11:30\nS003",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#lernziele-und-prüfungsleistung",
-    "href": "syllabus.html#lernziele-und-prüfungsleistung",
-    "title": "Syllabus",
-    "section": "Lernziele und Prüfungsleistung",
-    "text": "Lernziele und Prüfungsleistung\nSie sollen in Teams ein innovatives Geschäftsmodell konzipieren, das eine Symbiose aus einem digitalen und einem physischen Produkt darstellt. Das Produkt soll in Deutschland hergestellt werden.\nDie Prüfungsleistung besteht aus den folgenden Bestandteilen:\n\nIdeenfindung (entlang Design Thinking-Prozess):\n\nGenerierung und Bewertung von Ideen für digitale und physische Produkte (mit Hilfe des Design-Thinking Prozesses).\n\nAnwendung von Entrepreneurship-Frameworks:\n\nAnwendung der Blue Ocean Strategy zur Identifikation von Marktnischen und Differenzierung.\nErstellung des Business Model Canvas und Value Proposition Canvas (inklusive User Persona oder Buyer Persona) zur Erklärung des eigenen Geschäftsmodells. Mögliche Vorgehensweise:\n\nJobs-to-be-Done Framework in Kombination mit Kundenprofil-Ansatz des Value Proposition Canvas\n\n\nErstellung User Persona oder Buyer Persona\n\n\nDefinition des Wertangebots (Value Map) mit Hilfe des Value Proposition Canvas\n\n\nErstellung Business Model Canvas.\n\n\nProduktentwicklung und Design:\n\nGestaltung von digitalen Produkten, die auf die identifizierten Marktanforderungen und -chancen abzielen.\nErstellung von Mock-Ups für das digitale Produkt (mit Figma: Erstellen Sie einen Figma-Account für Studierende; Wählen Sie bei school’s name: Fachhochschule Stuttgart, Hochschule der Medien). Tutorial: Einführung in Prototyping mit Figma.\n\nDokumentation:\n\nErstellung einer umfassenden Dokumentation, die den gesamten Prozess von 1. Ideenfindung bis 3. Produktentwicklung und Design umfasst.\nDie Dokumentation sollte nicht länger als 12 Seiten sein.\nHier finden Sie eine Vorlage für die Erstellung der Dokumentation\n\nPräsentation (am 31.01.24):\n\nVorbereitung und Durchführung einer 5-minütigen Präsentation, um das Geschäftsmodell und die Produktidee vorzustellen (vor fiktiven Investoren).\nDie Präsentation sollte klar und prägnant sein, und das dea Publikum von der eigenen Geschäftsidee zu überzeugen.\nBitte erstellen Sie die Präsentation in Miro, in Google Slides mit Canvas oder PowerPoint.",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#bewertungsraster",
-    "href": "syllabus.html#bewertungsraster",
-    "title": "Syllabus",
-    "section": "Bewertungsraster",
-    "text": "Bewertungsraster\nGeamtpunktzahl: 40 Punkte\n\n\n\n\n\n\n\n\nKriterium\nProzent\nBewertung\n\n\n\n\nRecherche und Ideenfindung\n10%\nTiefe der Recherche, Originalität der Idee\n\n\nAnwendung der Frameworks\n30%\nAnwendung der Frameworks (Design-Thinking, Blue Ocean Strategy, Business Model Canvas + Value Proposition Canvas mit User Persona)\n\n\nProduktdesign und Mock-Up\n15%\nRelevanz hinsichtlich Marktanforderungen, Umsetzung in Figma\n\n\nDokumentation\n30%\nStruktur, Inhalt, Klarheit, Relevanz\n\n\nPräsentation (31.01.24)\n15%\nKlarheit, Überzeugungskraft, Zeitmanagement",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#notenschlüssel",
-    "href": "syllabus.html#notenschlüssel",
-    "title": "Syllabus",
-    "section": "Notenschlüssel",
-    "text": "Notenschlüssel\nDie Note für die erzielten Punkte wird auf der Grundlage der folgenden Schwellenwerte ermittelt:\n\n\n\nNote\nErreichte Prozent\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14",
-    "crumbs": [
-      "Course information",
-      "Syllabus"
     ]
   }
 ]
