@@ -58,4 +58,4 @@ Eine umfassende User Persona-Beschreibung enthält in der Regel folgende Element
 
 ## Nächste Schritte
 
-Nachdem die Persona erstellt wurde, können die Bedürfnisse der Persona mit Hilfe der Wertkarte (Value Map) eines Unternehmens innerhalb des [Value Proposition Canvas](/docs/value-proposition.qmd) abgeglichen werden. 
+Nachdem die Persona erstellt wurde, können die Bedürfnisse dieser Persona mit  der Wertkarte (Value Map) eines Unternehmens mit Hilfe des [Value Proposition Canvas](/docs/value-proposition.qmd) abgeglichen werden. 
